@@ -1,0 +1,2299 @@
+﻿id_artigo,Secao,Substantivo,Nome Próprio,Verbo,Adjetivo,Advérbio,Conectivo,Preposição,Outros,Total_Citacoes
+artigo_001,Introdução,36,0,13,11,6,0,0,48,0
+artigo_001,Materiais e Métodos,59,3,17,4,1,1,1,83,4
+artigo_001,Resultados e Discussão,116,4,37,18,5,4,2,152,5
+artigo_001,Conclusão,158,5,58,26,9,4,2,201,5
+artigo_001,Agradecimentos,8,0,2,2,0,0,1,7,0
+artigo_001,Referências,35,9,5,9,0,0,0,77,0
+artigo_002,Introdução,21,0,8,7,3,3,1,28,0
+artigo_002,Materiais e Métodos,155,1,48,30,12,4,10,139,1
+artigo_002,Resultados e Discussão,54,1,16,15,3,3,3,42,2
+artigo_002,Conclusão,20,0,7,5,1,0,0,19,0
+artigo_002,Agradecimentos,12,0,2,4,1,0,0,13,0
+artigo_002,Referências,26,4,0,8,0,0,0,27,2
+artigo_003,Introdução,27,1,17,11,3,0,0,39,0
+artigo_003,Materiais e Métodos,9,0,4,1,0,0,0,8,0
+artigo_003,Resultados e Discussão,140,1,45,33,3,2,4,163,0
+artigo_003,Conclusão,40,0,11,10,2,0,1,41,0
+artigo_003,Agradecimentos,13,0,0,3,2,0,0,9,0
+artigo_003,Referências,24,3,0,9,0,0,0,42,1
+artigo_004,Introdução,57,1,15,15,7,0,2,58,0
+artigo_004,Materiais e Métodos,65,1,14,6,3,0,1,63,0
+artigo_004,Resultados e Discussão,107,1,38,24,14,6,5,115,2
+artigo_004,Conclusão,50,1,14,18,1,0,1,46,0
+artigo_004,Agradecimentos,17,0,1,6,1,0,0,16,0
+artigo_004,Referências,56,1,2,14,3,1,0,51,3
+artigo_005,Introdução,25,3,9,10,3,2,0,37,3
+artigo_005,Materiais e Métodos,60,1,15,11,1,0,2,74,2
+artigo_005,Resultados e Discussão,114,2,38,34,4,0,3,149,6
+artigo_005,Conclusão,30,0,11,10,2,1,0,25,0
+artigo_005,Agradecimentos,10,1,1,5,2,0,0,7,0
+artigo_005,Referências,30,21,0,4,0,0,0,86,0
+artigo_006,Introdução,52,4,14,22,3,1,5,80,4
+artigo_006,Materiais e Métodos,65,4,8,12,5,0,1,122,2
+artigo_006,Resultados e Discussão,41,2,9,13,4,0,12,117,4
+artigo_006,Conclusão,16,0,9,9,3,2,2,37,0
+artigo_006,Agradecimentos,1,0,0,0,0,0,0,2,0
+artigo_006,Referências,42,9,0,13,0,0,3,135,2
+artigo_007,Introdução,48,2,24,19,5,1,3,60,5
+artigo_007,Materiais e Métodos,55,1,21,9,0,0,1,68,2
+artigo_007,Resultados e Discussão,115,2,51,19,7,0,1,126,2
+artigo_007,Conclusão,33,0,13,12,2,1,0,27,0
+artigo_007,Agradecimentos,4,0,0,0,0,0,0,6,0
+artigo_007,Referências,60,0,6,13,0,0,0,75,4
+artigo_008,Introdução,89,0,36,31,6,3,3,83,6
+artigo_008,Materiais e Métodos,37,0,6,17,0,0,1,20,0
+artigo_008,Resultados e Discussão,82,0,32,47,8,2,5,77,1
+artigo_008,Conclusão,21,0,7,3,2,0,1,21,0
+artigo_008,Agradecimentos,3,0,0,0,0,0,0,4,0
+artigo_008,Referências,65,4,1,11,0,0,2,87,0
+artigo_009,Introdução,75,0,30,10,10,4,5,78,6
+artigo_009,Materiais e Métodos,20,0,3,5,0,0,0,25,0
+artigo_009,Resultados e Discussão,60,0,21,22,5,0,1,90,0
+artigo_009,Conclusão,13,0,4,2,0,0,0,19,0
+artigo_009,Agradecimentos,4,0,0,0,0,0,0,4,0
+artigo_009,Referências,34,0,3,6,0,0,0,55,1
+artigo_010,Introdução,47,4,17,11,6,0,4,61,1
+artigo_010,Materiais e Métodos,75,1,9,12,2,0,6,84,1
+artigo_010,Resultados e Discussão,161,9,44,33,12,3,10,176,7
+artigo_010,Conclusão,6,0,6,5,0,0,0,15,0
+artigo_010,Agradecimentos,4,0,0,0,0,0,0,4,0
+artigo_010,Referências,53,2,5,7,1,0,0,68,0
+artigo_011,Introdução,30,3,8,7,1,0,1,73,2
+artigo_011,Materiais e Métodos,92,0,13,10,4,0,7,103,1
+artigo_011,Resultados e Discussão,90,5,35,24,10,0,3,138,5
+artigo_011,Conclusão,3,0,2,2,0,0,0,8,0
+artigo_011,Agradecimentos,8,0,1,3,1,0,0,8,0
+artigo_011,Referências,52,6,2,16,2,0,1,104,1
+artigo_012,Introdução,10,1,2,6,1,0,0,20,1
+artigo_012,Materiais e Métodos,55,1,13,8,2,1,2,61,1
+artigo_012,Resultados e Discussão,208,4,60,49,9,5,8,191,6
+artigo_012,Conclusão,27,0,5,4,2,0,0,16,0
+artigo_012,Agradecimentos,6,0,0,3,0,0,0,6,0
+artigo_012,Referências,89,7,3,13,2,0,1,98,2
+artigo_013,Introdução,48,5,23,19,2,0,0,84,2
+artigo_013,Materiais e Métodos,17,0,5,3,0,0,0,35,0
+artigo_013,Resultados e Discussão,33,3,18,16,3,2,1,64,3
+artigo_013,Conclusão,8,0,5,5,0,2,0,22,0
+artigo_013,Agradecimentos,11,0,0,6,0,0,0,7,0
+artigo_013,Referências,28,41,1,8,0,0,0,116,0
+artigo_014,Introdução,63,5,19,19,2,1,3,55,3
+artigo_014,Materiais e Métodos,28,1,6,5,2,0,1,58,0
+artigo_014,Resultados e Discussão,40,1,11,15,4,0,3,46,1
+artigo_014,Conclusão,12,0,9,8,0,0,1,16,0
+artigo_014,Agradecimentos,13,0,0,7,1,0,0,13,0
+artigo_014,Referências,32,26,2,8,0,0,0,78,0
+artigo_015,Introdução,63,0,18,33,4,0,3,91,2
+artigo_015,Materiais e Métodos,14,0,4,2,0,0,0,17,0
+artigo_015,Resultados e Discussão,114,1,43,28,12,1,5,147,2
+artigo_015,Conclusão,48,0,14,18,2,1,0,57,0
+artigo_015,Agradecimentos,13,1,1,2,0,0,0,9,0
+artigo_015,Referências,39,2,0,20,0,0,0,62,0
+artigo_016,Introdução,40,2,29,22,2,1,3,72,0
+artigo_016,Materiais e Métodos,8,0,2,5,0,0,0,14,0
+artigo_016,Resultados e Discussão,89,2,51,46,8,2,2,147,4
+artigo_016,Conclusão,37,0,21,17,3,1,2,66,0
+artigo_016,Agradecimentos,13,1,1,2,0,0,0,9,0
+artigo_016,Referências,30,3,0,11,0,0,0,63,0
+artigo_017,Introdução,71,0,25,34,7,2,6,102,2
+artigo_017,Materiais e Métodos,136,0,37,54,9,2,9,186,2
+artigo_017,Resultados e Discussão,38,1,7,2,1,0,2,41,0
+artigo_017,Conclusão,23,0,5,5,0,0,3,30,0
+artigo_017,Agradecimentos,5,0,1,0,0,0,0,3,0
+artigo_017,Referências,79,0,9,15,2,0,4,93,0
+artigo_018,Introdução,98,0,33,24,7,1,7,95,2
+artigo_018,Materiais e Métodos,48,2,10,11,3,2,2,54,1
+artigo_018,Resultados e Discussão,54,0,17,3,4,0,4,45,0
+artigo_018,Conclusão,28,0,9,3,2,0,2,25,0
+artigo_018,Agradecimentos,5,0,1,0,0,0,0,3,0
+artigo_018,Referências,19,2,3,8,1,0,1,54,0
+artigo_019,Introdução,15,1,4,4,1,2,1,22,0
+artigo_019,Materiais e Métodos,12,0,3,3,1,0,1,17,0
+artigo_019,Resultados e Discussão,176,6,61,49,24,1,6,290,4
+artigo_019,Conclusão,16,0,3,4,4,0,0,26,0
+artigo_019,Agradecimentos,0,0,0,0,0,0,0,0,0
+artigo_019,Referências,14,32,1,3,0,0,0,100,0
+artigo_020,Introdução,21,0,2,7,0,0,0,18,0
+artigo_020,Materiais e Métodos,33,1,11,12,1,1,1,40,0
+artigo_020,Resultados e Discussão,226,2,65,67,12,4,13,307,5
+artigo_020,Conclusão,15,0,6,6,2,0,0,19,0
+artigo_020,Agradecimentos,9,0,0,5,0,0,0,7,0
+artigo_020,Referências,46,0,1,6,0,0,1,57,1
+artigo_021,Introdução,52,1,13,26,9,2,2,46,2
+artigo_021,Materiais e Métodos,151,3,33,56,19,0,5,202,5
+artigo_021,Resultados e Discussão,123,2,41,43,13,4,4,139,5
+artigo_021,Conclusão,341,5,90,127,41,7,12,404,12
+artigo_021,Agradecimentos,9,0,0,4,0,0,0,7,0
+artigo_021,Referências,45,7,2,13,0,0,3,75,0
+artigo_022,Introdução,71,1,35,27,8,2,4,118,1
+artigo_022,Materiais e Métodos,44,0,6,8,2,0,1,64,0
+artigo_022,Resultados e Discussão,98,0,49,17,10,3,2,123,1
+artigo_022,Conclusão,31,0,14,11,1,0,0,42,0
+artigo_022,Agradecimentos,1,0,0,0,0,0,0,6,0
+artigo_022,Referências,47,3,4,10,0,2,0,62,2
+artigo_023,Introdução,63,4,14,11,0,1,0,113,2
+artigo_023,Materiais e Métodos,22,1,4,8,1,1,0,46,0
+artigo_023,Resultados e Discussão,89,5,30,25,7,3,1,102,4
+artigo_023,Conclusão,8,0,6,3,0,0,0,15,0
+artigo_023,Agradecimentos,9,0,0,5,0,0,0,9,0
+artigo_023,Referências,68,20,1,14,0,0,0,93,0
+artigo_024,Introdução,83,7,28,29,7,5,2,132,6
+artigo_024,Materiais e Métodos,58,2,13,14,6,0,3,93,2
+artigo_024,Resultados e Discussão,40,2,17,14,6,4,5,120,4
+artigo_024,Conclusão,7,0,4,1,0,0,0,11,0
+artigo_024,Agradecimentos,3,0,1,0,0,0,0,4,0
+artigo_024,Referências,67,7,2,7,0,0,1,106,5
+artigo_025,Introdução,47,0,24,21,9,0,2,67,0
+artigo_025,Materiais e Métodos,72,0,37,12,6,7,6,95,5
+artigo_025,Resultados e Discussão,194,0,104,46,24,7,8,241,2
+artigo_025,Conclusão,23,0,10,6,1,0,0,19,0
+artigo_025,Agradecimentos,9,0,0,1,1,0,0,9,0
+artigo_025,Referências,18,0,1,1,0,0,0,28,0
+artigo_026,Introdução,1,0,0,1,1,0,1,0,0
+artigo_026,Materiais e Métodos,92,1,36,21,9,0,9,118,2
+artigo_026,Resultados e Discussão,49,0,30,20,4,3,1,45,1
+artigo_026,Conclusão,33,0,8,7,2,2,3,37,0
+artigo_026,Agradecimentos,10,0,2,2,1,0,0,15,0
+artigo_026,Referências,20,0,0,3,0,0,1,27,0
+artigo_027,Introdução,61,1,17,20,5,2,6,60,3
+artigo_027,Materiais e Métodos,10,0,4,3,0,0,1,12,1
+artigo_027,Resultados e Discussão,174,0,81,81,14,8,13,192,5
+artigo_027,Conclusão,42,0,18,21,8,3,3,59,0
+artigo_027,Agradecimentos,0,0,0,0,0,0,0,0,0
+artigo_027,Referências,28,0,0,9,0,0,0,48,0
+artigo_028,Introdução,53,7,24,11,9,1,3,67,4
+artigo_028,Materiais e Métodos,64,1,11,10,8,0,2,118,2
+artigo_028,Resultados e Discussão,176,8,39,43,16,1,8,288,9
+artigo_028,Conclusão,12,0,5,1,0,1,1,26,0
+artigo_028,Agradecimentos,3,0,0,0,0,0,0,2,0
+artigo_028,Referências,87,18,1,18,0,0,0,125,0
+artigo_029,Introdução,62,4,20,20,5,1,0,57,3
+artigo_029,Materiais e Métodos,28,0,0,4,2,0,0,44,0
+artigo_029,Resultados e Discussão,91,8,17,31,5,2,3,121,6
+artigo_029,Conclusão,7,0,4,1,0,0,1,10,0
+artigo_029,Agradecimentos,3,0,0,0,0,0,0,2,0
+artigo_029,Referências,68,11,3,22,0,0,1,94,0
+artigo_030,Introdução,43,1,18,7,1,0,6,71,4
+artigo_030,Materiais e Métodos,51,0,15,2,6,0,3,64,0
+artigo_030,Resultados e Discussão,54,7,23,16,10,0,3,91,7
+artigo_030,Conclusão,14,0,7,4,2,0,4,26,0
+artigo_030,Agradecimentos,3,0,0,0,0,0,0,2,0
+artigo_030,Referências,70,16,1,10,2,0,1,109,1
+artigo_031,Introdução,35,1,4,16,2,0,1,38,3
+artigo_031,Materiais e Métodos,40,1,3,7,3,0,1,67,1
+artigo_031,Resultados e Discussão,97,6,24,15,11,3,5,153,6
+artigo_031,Conclusão,18,0,5,3,0,0,1,24,0
+artigo_031,Agradecimentos,3,0,0,0,0,0,0,2,0
+artigo_031,Referências,87,18,3,23,1,0,2,131,0
+artigo_032,Introdução,31,2,11,9,5,0,1,44,2
+artigo_032,Materiais e Métodos,35,0,13,5,6,0,0,40,1
+artigo_032,Resultados e Discussão,53,2,10,4,8,0,0,41,3
+artigo_032,Conclusão,62,0,24,8,8,1,4,79,0
+artigo_032,Agradecimentos,3,0,0,0,0,0,0,2,0
+artigo_032,Referências,66,3,5,6,10,0,0,95,2
+artigo_033,Introdução,25,3,10,10,2,1,0,45,4
+artigo_033,Materiais e Métodos,25,0,2,1,4,0,0,53,1
+artigo_033,Resultados e Discussão,99,4,53,28,9,1,1,181,5
+artigo_033,Conclusão,12,0,5,1,0,0,1,18,0
+artigo_033,Agradecimentos,3,0,0,0,0,0,0,2,0
+artigo_033,Referências,57,12,1,11,2,0,0,103,0
+artigo_034,Introdução,36,5,16,6,2,0,4,56,4
+artigo_034,Materiais e Métodos,67,0,17,11,9,0,4,96,0
+artigo_034,Resultados e Discussão,60,3,19,11,6,2,3,106,4
+artigo_034,Conclusão,27,0,9,5,3,1,2,34,0
+artigo_034,Agradecimentos,3,0,0,0,0,0,0,2,0
+artigo_034,Referências,54,13,0,8,0,0,0,102,0
+artigo_035,Introdução,36,3,11,10,2,1,2,42,4
+artigo_035,Materiais e Métodos,26,3,1,3,1,0,0,66,1
+artigo_035,Resultados e Discussão,72,1,28,24,6,1,4,99,6
+artigo_035,Conclusão,13,0,8,2,1,0,0,17,0
+artigo_035,Agradecimentos,3,0,0,0,0,0,0,2,0
+artigo_035,Referências,77,9,2,15,0,0,0,107,0
+artigo_036,Introdução,44,4,18,16,2,0,2,41,4
+artigo_036,Materiais e Métodos,24,3,2,0,2,0,0,53,1
+artigo_036,Resultados e Discussão,105,3,31,27,13,1,4,219,4
+artigo_036,Conclusão,28,0,7,10,2,0,3,54,0
+artigo_036,Agradecimentos,3,0,0,0,0,0,0,2,0
+artigo_036,Referências,43,23,0,8,1,0,0,116,1
+artigo_037,Introdução,34,2,14,10,3,0,0,62,2
+artigo_037,Materiais e Métodos,40,0,5,11,4,0,1,77,0
+artigo_037,Resultados e Discussão,71,3,15,22,10,2,7,143,4
+artigo_037,Conclusão,28,0,9,4,2,0,0,41,0
+artigo_037,Agradecimentos,3,0,0,0,0,0,0,2,0
+artigo_037,Referências,59,6,1,14,0,0,1,80,0
+artigo_038,Introdução,1,0,1,0,0,0,0,0,0
+artigo_038,Materiais e Métodos,187,4,63,42,17,6,6,201,6
+artigo_038,Resultados e Discussão,347,9,109,73,34,10,10,434,6
+artigo_038,Conclusão,55,1,16,13,2,1,3,79,0
+artigo_038,Agradecimentos,5,0,2,1,0,0,0,6,0
+artigo_038,Referências,52,12,3,14,0,0,3,106,0
+artigo_039,Introdução,25,2,11,9,1,1,3,47,2
+artigo_039,Materiais e Métodos,45,1,5,11,1,1,7,78,0
+artigo_039,Resultados e Discussão,43,0,22,14,6,1,2,106,0
+artigo_039,Conclusão,7,1,4,2,3,0,0,19,0
+artigo_039,Agradecimentos,9,1,2,5,0,0,0,10,0
+artigo_039,Referências,36,42,1,9,3,0,4,175,1
+artigo_040,Introdução,50,1,23,16,6,0,5,84,1
+artigo_040,Materiais e Métodos,34,0,4,8,1,0,1,32,0
+artigo_040,Resultados e Discussão,111,1,50,46,15,2,6,176,3
+artigo_040,Conclusão,18,0,6,6,1,2,1,29,0
+artigo_040,Agradecimentos,5,0,0,1,0,0,0,4,0
+artigo_040,Referências,67,13,10,9,3,0,1,111,1
+artigo_041,Introdução,82,3,28,23,4,2,3,101,5
+artigo_041,Materiais e Métodos,73,0,7,14,2,0,5,77,0
+artigo_041,Resultados e Discussão,106,0,31,30,14,1,9,83,0
+artigo_041,Conclusão,26,0,4,7,0,0,1,24,0
+artigo_041,Agradecimentos,5,0,0,0,0,0,0,6,0
+artigo_041,Referências,18,12,2,5,0,0,0,69,0
+artigo_042,Introdução,74,11,18,20,10,1,5,78,8
+artigo_042,Materiais e Métodos,113,0,8,14,4,0,3,80,0
+artigo_042,Resultados e Discussão,210,1,31,55,22,2,11,170,1
+artigo_042,Conclusão,33,0,9,11,3,1,1,37,0
+artigo_042,Agradecimentos,5,0,0,0,0,0,0,6,0
+artigo_042,Referências,48,8,4,17,0,0,1,107,0
+artigo_043,Introdução,77,3,18,31,8,3,5,62,3
+artigo_043,Materiais e Métodos,79,2,13,24,5,0,4,97,6
+artigo_043,Resultados e Discussão,91,4,38,27,13,1,4,196,3
+artigo_043,Conclusão,5,0,3,4,1,0,0,25,0
+artigo_043,Agradecimentos,5,0,0,0,0,0,0,6,0
+artigo_043,Referências,43,2,0,14,0,0,3,73,0
+artigo_044,Introdução,34,0,11,8,2,0,1,44,0
+artigo_044,Materiais e Métodos,61,1,15,16,8,0,4,95,6
+artigo_044,Resultados e Discussão,207,1,50,56,20,3,19,247,6
+artigo_044,Conclusão,25,0,13,9,1,0,1,37,0
+artigo_044,Agradecimentos,0,0,0,0,0,0,0,0,0
+artigo_044,Referências,22,0,0,5,0,0,0,52,0
+artigo_045,Introdução,77,7,22,28,8,1,6,94,6
+artigo_045,Materiais e Métodos,71,2,24,16,5,0,4,95,1
+artigo_045,Resultados e Discussão,86,6,23,23,3,2,2,69,5
+artigo_045,Conclusão,12,0,3,7,1,0,0,10,0
+artigo_045,Agradecimentos,8,0,0,2,0,0,0,7,0
+artigo_045,Referências,68,16,4,15,6,0,2,113,0
+artigo_046,Introdução,37,3,13,19,4,2,1,46,3
+artigo_046,Materiais e Métodos,67,0,10,18,2,0,0,66,2
+artigo_046,Resultados e Discussão,47,2,18,17,6,0,2,78,1
+artigo_046,Conclusão,17,0,6,6,0,1,0,22,0
+artigo_046,Agradecimentos,9,0,0,3,0,0,1,8,0
+artigo_046,Referências,69,12,0,14,0,0,1,141,1
+artigo_047,Introdução,58,2,19,25,7,0,3,62,2
+artigo_047,Materiais e Métodos,58,0,21,12,10,0,5,65,1
+artigo_047,Resultados e Discussão,46,3,17,20,6,0,3,58,3
+artigo_047,Conclusão,34,0,13,14,7,3,1,37,0
+artigo_047,Agradecimentos,14,0,1,2,0,0,0,7,0
+artigo_047,Referências,34,1,1,6,0,0,1,62,0
+artigo_048,Introdução,61,1,25,16,4,1,1,75,3
+artigo_048,Materiais e Métodos,80,0,23,18,4,1,4,114,0
+artigo_048,Resultados e Discussão,76,0,34,10,14,2,5,120,0
+artigo_048,Conclusão,48,0,15,17,1,0,1,61,0
+artigo_048,Agradecimentos,0,0,0,0,0,0,0,0,0
+artigo_048,Referências,25,3,0,2,1,0,2,28,4
+artigo_049,Introdução,44,0,12,16,4,2,0,50,1
+artigo_049,Materiais e Métodos,80,0,25,18,6,0,4,122,3
+artigo_049,Resultados e Discussão,41,0,20,6,6,0,3,59,2
+artigo_049,Conclusão,33,0,9,6,3,0,0,32,0
+artigo_049,Agradecimentos,0,0,0,0,0,0,0,0,0
+artigo_049,Referências,203,1,56,45,15,0,7,293,14
+artigo_050,Introdução,61,4,12,11,2,4,2,63,2
+artigo_050,Materiais e Métodos,73,2,12,14,5,0,0,84,1
+artigo_050,Resultados e Discussão,30,2,17,13,4,5,4,72,3
+artigo_050,Conclusão,13,0,4,6,0,2,0,26,0
+artigo_050,Agradecimentos,15,0,0,5,0,0,0,22,0
+artigo_050,Referências,72,7,4,13,1,0,1,90,2
+artigo_051,Introdução,57,1,25,21,9,2,5,76,1
+artigo_051,Materiais e Métodos,37,1,9,11,2,0,1,54,1
+artigo_051,Resultados e Discussão,37,0,15,18,2,1,3,54,0
+artigo_051,Conclusão,39,0,20,17,5,2,2,65,0
+artigo_051,Agradecimentos,9,1,2,2,1,0,0,15,0
+artigo_051,Referências,22,9,2,9,0,0,1,95,4
+artigo_052,Introdução,70,0,26,28,5,3,3,127,0
+artigo_052,Materiais e Métodos,36,1,14,7,0,1,3,107,0
+artigo_052,Resultados e Discussão,45,2,20,16,2,2,2,59,1
+artigo_052,Conclusão,22,1,4,10,0,1,2,29,0
+artigo_052,Agradecimentos,0,0,0,0,0,0,0,0,0
+artigo_052,Referências,10,14,0,2,0,0,1,81,0
+artigo_053,Introdução,40,4,18,20,5,0,5,60,0
+artigo_053,Materiais e Métodos,47,1,17,7,6,0,1,93,0
+artigo_053,Resultados e Discussão,25,1,13,12,6,2,1,32,0
+artigo_053,Conclusão,15,1,9,4,1,0,2,25,0
+artigo_053,Agradecimentos,9,1,0,5,0,0,0,5,0
+artigo_053,Referências,20,10,0,6,0,0,3,65,0
+artigo_054,Introdução,37,0,10,14,4,1,3,44,4
+artigo_054,Materiais e Métodos,42,0,6,22,3,0,2,47,4
+artigo_054,Resultados e Discussão,64,0,20,29,2,0,2,63,2
+artigo_054,Conclusão,64,0,22,23,5,2,3,67,3
+artigo_054,Agradecimentos,12,0,1,1,1,0,0,12,0
+artigo_054,Referências,17,1,2,5,0,0,1,18,0
+artigo_055,Introdução,31,2,8,15,1,0,1,40,2
+artigo_055,Materiais e Métodos,26,0,3,5,0,0,0,36,1
+artigo_055,Resultados e Discussão,38,0,9,16,1,1,1,48,3
+artigo_055,Conclusão,21,0,3,8,0,1,0,24,0
+artigo_055,Agradecimentos,9,0,1,2,2,0,1,17,0
+artigo_055,Referências,19,2,2,10,0,0,1,40,0
+artigo_056,Introdução,36,2,9,14,1,0,0,55,2
+artigo_056,Materiais e Métodos,26,1,10,7,0,1,0,30,1
+artigo_056,Resultados e Discussão,44,0,11,10,5,1,2,65,2
+artigo_056,Conclusão,16,1,13,14,1,0,0,35,1
+artigo_056,Agradecimentos,13,0,1,1,2,0,1,16,0
+artigo_056,Referências,15,4,0,8,0,0,0,34,0
+artigo_057,Introdução,45,0,20,16,1,1,3,27,0
+artigo_057,Materiais e Métodos,81,0,28,18,2,1,1,103,0
+artigo_057,Resultados e Discussão,29,0,13,7,2,0,1,28,0
+artigo_057,Conclusão,17,0,10,3,2,1,1,17,0
+artigo_057,Agradecimentos,7,0,0,5,0,0,0,6,0
+artigo_057,Referências,27,2,1,2,1,0,0,36,0
+artigo_058,Introdução,46,2,14,16,1,2,5,78,4
+artigo_058,Materiais e Métodos,53,0,6,9,5,0,1,78,1
+artigo_058,Resultados e Discussão,35,0,19,17,7,0,3,50,0
+artigo_058,Conclusão,17,0,11,4,3,1,2,37,0
+artigo_058,Agradecimentos,5,0,0,3,0,0,0,9,0
+artigo_058,Referências,39,6,0,4,0,0,1,57,0
+artigo_059,Introdução,86,0,26,35,12,1,10,132,9
+artigo_059,Materiais e Métodos,37,0,9,14,2,0,1,36,0
+artigo_059,Resultados e Discussão,102,1,35,38,7,2,7,112,0
+artigo_059,Conclusão,53,0,12,18,8,1,4,73,8
+artigo_059,Agradecimentos,5,0,0,3,0,0,0,9,0
+artigo_059,Referências,29,9,2,5,0,0,1,79,0
+artigo_060,Introdução,43,2,21,21,4,1,1,44,2
+artigo_060,Materiais e Métodos,19,0,13,5,1,1,0,30,1
+artigo_060,Resultados e Discussão,147,2,55,59,13,2,7,194,3
+artigo_060,Conclusão,6,0,5,3,0,0,0,19,0
+artigo_060,Agradecimentos,1,0,0,0,0,0,0,3,0
+artigo_060,Referências,36,6,3,12,0,0,0,61,1
+artigo_061,Introdução,56,0,14,15,1,5,2,50,5
+artigo_061,Materiais e Métodos,115,0,48,20,5,1,9,141,0
+artigo_061,Resultados e Discussão,82,0,24,22,7,2,5,85,0
+artigo_061,Conclusão,20,0,6,6,2,0,0,24,0
+artigo_061,Agradecimentos,14,0,0,5,0,0,0,17,0
+artigo_061,Referências,34,18,0,3,0,0,0,88,12
+artigo_062,Introdução,1,0,0,1,0,0,0,0,0
+artigo_062,Materiais e Métodos,114,1,43,44,13,4,4,123,3
+artigo_062,Resultados e Discussão,94,0,37,15,12,5,4,75,0
+artigo_062,Conclusão,211,0,87,73,24,5,11,252,2
+artigo_062,Agradecimentos,4,0,1,0,0,0,0,1,0
+artigo_062,Referências,22,0,1,3,1,0,0,33,0
+artigo_063,Introdução,40,2,17,16,1,2,0,55,1
+artigo_063,Materiais e Métodos,13,0,2,2,0,0,0,12,0
+artigo_063,Resultados e Discussão,128,0,27,30,4,3,5,113,0
+artigo_063,Conclusão,27,0,9,10,1,0,1,16,0
+artigo_063,Agradecimentos,6,0,0,1,0,0,0,7,0
+artigo_063,Referências,20,1,1,11,0,0,1,54,0
+artigo_064,Introdução,47,0,18,15,2,1,1,41,0
+artigo_064,Materiais e Métodos,67,0,17,12,2,0,6,48,0
+artigo_064,Resultados e Discussão,148,0,49,36,8,1,8,90,0
+artigo_064,Conclusão,26,0,16,10,1,0,0,10,0
+artigo_064,Agradecimentos,5,0,0,1,0,0,0,7,0
+artigo_064,Referências,29,1,1,5,1,0,0,40,0
+artigo_065,Introdução,81,1,15,30,5,2,4,77,0
+artigo_065,Materiais e Métodos,48,0,4,18,4,2,1,61,1
+artigo_065,Resultados e Discussão,71,0,14,24,10,1,2,67,0
+artigo_065,Conclusão,52,2,18,24,8,1,4,84,1
+artigo_065,Agradecimentos,5,0,0,1,0,0,0,9,0
+artigo_065,Referências,39,4,5,10,2,0,1,47,1
+artigo_066,Introdução,80,8,27,25,8,0,3,114,6
+artigo_066,Materiais e Métodos,16,1,3,7,0,0,0,16,0
+artigo_066,Resultados e Discussão,141,4,39,43,12,2,5,152,4
+artigo_066,Conclusão,26,0,12,10,0,2,2,42,0
+artigo_066,Agradecimentos,4,0,0,3,0,0,0,4,0
+artigo_066,Referências,43,19,2,8,0,0,0,95,3
+artigo_067,Introdução,56,3,15,18,5,1,1,78,6
+artigo_067,Materiais e Métodos,29,4,3,2,1,0,0,50,1
+artigo_067,Resultados e Discussão,63,0,17,23,6,2,1,84,3
+artigo_067,Conclusão,18,0,7,9,0,0,1,25,0
+artigo_067,Agradecimentos,10,0,0,4,0,0,0,11,0
+artigo_067,Referências,48,29,3,12,0,0,0,156,0
+artigo_068,Introdução,56,6,18,17,9,0,9,129,2
+artigo_068,Materiais e Métodos,47,0,13,15,7,1,1,133,5
+artigo_068,Resultados e Discussão,22,0,8,3,2,0,2,35,1
+artigo_068,Conclusão,9,0,5,4,0,0,0,13,0
+artigo_068,Agradecimentos,7,0,0,1,1,0,0,7,0
+artigo_068,Referências,32,11,1,3,0,0,0,65,0
+artigo_069,Introdução,60,2,28,22,12,3,1,88,3
+artigo_069,Materiais e Métodos,83,4,39,14,5,0,0,137,1
+artigo_069,Resultados e Discussão,63,1,24,15,10,1,4,86,0
+artigo_069,Conclusão,17,0,18,6,4,0,0,35,0
+artigo_069,Agradecimentos,7,0,0,1,1,0,1,12,0
+artigo_069,Referências,40,16,1,3,0,0,1,86,3
+artigo_070,Introdução,42,0,14,14,2,0,0,57,0
+artigo_070,Materiais e Métodos,46,0,14,9,4,0,1,55,0
+artigo_070,Resultados e Discussão,4,0,0,0,2,0,0,8,0
+artigo_070,Conclusão,18,0,5,6,1,0,0,13,0
+artigo_070,Agradecimentos,6,0,0,2,1,0,0,7,0
+artigo_070,Referências,88,5,23,25,4,0,3,118,0
+artigo_071,Introdução,80,0,34,31,8,5,6,148,1
+artigo_071,Materiais e Métodos,21,0,6,6,2,0,0,32,0
+artigo_071,Resultados e Discussão,113,1,41,32,7,1,1,154,0
+artigo_071,Conclusão,7,0,5,4,0,1,0,23,0
+artigo_071,Agradecimentos,6,0,0,4,0,0,0,3,0
+artigo_071,Referências,15,3,1,7,0,0,1,24,1
+artigo_072,Introdução,49,0,26,24,4,1,4,78,2
+artigo_072,Materiais e Métodos,71,2,5,22,3,0,5,122,8
+artigo_072,Resultados e Discussão,59,0,16,39,5,1,2,96,0
+artigo_072,Conclusão,10,0,2,6,2,0,1,17,0
+artigo_072,Agradecimentos,0,0,0,0,0,0,0,0,0
+artigo_072,Referências,78,17,7,30,0,0,1,161,12
+artigo_073,Introdução,36,4,11,11,0,0,2,39,0
+artigo_073,Materiais e Métodos,71,2,5,22,3,0,5,122,8
+artigo_073,Resultados e Discussão,131,3,25,64,6,4,6,217,9
+artigo_073,Conclusão,41,0,12,25,4,5,1,52,0
+artigo_073,Agradecimentos,0,0,0,0,0,0,0,0,0
+artigo_073,Referências,83,17,6,27,1,0,2,145,12
+artigo_074,Introdução,71,1,28,29,7,2,2,99,1
+artigo_074,Materiais e Métodos,14,0,4,1,1,0,1,12,0
+artigo_074,Resultados e Discussão,130,2,34,55,8,2,7,202,3
+artigo_074,Conclusão,24,0,10,14,2,1,4,36,0
+artigo_074,Agradecimentos,0,0,0,0,0,0,0,0,0
+artigo_074,Referências,75,8,1,13,0,0,1,132,17
+artigo_075,Introdução,70,4,24,19,6,1,1,104,1
+artigo_075,Materiais e Métodos,86,1,14,23,6,1,8,128,5
+artigo_075,Resultados e Discussão,72,0,12,32,4,1,2,141,0
+artigo_075,Conclusão,16,0,4,4,0,0,0,19,0
+artigo_075,Agradecimentos,0,0,0,0,0,0,0,0,0
+artigo_075,Referências,102,14,3,32,0,0,2,157,10
+artigo_076,Introdução,56,2,17,18,5,0,2,71,0
+artigo_076,Materiais e Métodos,15,0,4,1,1,0,1,12,0
+artigo_076,Resultados e Discussão,90,5,31,35,7,3,6,116,3
+artigo_076,Conclusão,29,1,10,9,3,1,1,39,0
+artigo_076,Agradecimentos,0,0,0,0,0,0,0,0,0
+artigo_076,Referências,62,4,2,11,0,0,1,97,8
+artigo_077,Introdução,40,2,10,9,5,0,1,67,0
+artigo_077,Materiais e Métodos,69,1,9,19,4,0,2,74,1
+artigo_077,Resultados e Discussão,122,2,33,24,12,3,2,144,5
+artigo_077,Conclusão,20,0,6,6,1,1,0,12,0
+artigo_077,Agradecimentos,7,0,0,1,0,0,0,4,0
+artigo_077,Referências,94,1,4,15,3,0,0,133,0
+artigo_078,Introdução,48,2,11,9,4,1,2,57,3
+artigo_078,Materiais e Métodos,88,1,18,11,8,0,2,109,2
+artigo_078,Resultados e Discussão,55,1,12,10,4,1,2,73,2
+artigo_078,Conclusão,14,0,6,3,0,0,0,15,0
+artigo_078,Agradecimentos,16,0,2,6,0,0,1,18,0
+artigo_078,Referências,64,9,4,8,1,0,0,129,2
+artigo_079,Introdução,53,2,17,14,8,0,0,49,2
+artigo_079,Materiais e Métodos,60,5,23,13,2,0,5,107,3
+artigo_079,Resultados e Discussão,111,5,56,34,13,5,7,168,5
+artigo_079,Conclusão,24,0,7,5,0,0,0,14,0
+artigo_079,Agradecimentos,7,0,0,3,0,0,0,6,0
+artigo_079,Referências,52,15,8,8,4,0,2,132,2
+artigo_080,Introdução,91,7,25,23,3,2,2,102,4
+artigo_080,Materiais e Métodos,67,0,12,17,2,0,3,66,1
+artigo_080,Resultados e Discussão,23,0,11,3,2,1,2,35,0
+artigo_080,Conclusão,4,0,1,2,1,1,0,10,0
+artigo_080,Agradecimentos,15,0,0,1,1,0,0,15,0
+artigo_080,Referências,41,10,1,7,0,0,1,95,1
+artigo_081,Introdução,37,2,13,10,2,0,3,65,2
+artigo_081,Materiais e Métodos,28,1,3,7,2,0,1,62,2
+artigo_081,Resultados e Discussão,78,4,23,26,8,2,4,126,2
+artigo_081,Conclusão,18,0,7,8,0,0,1,35,0
+artigo_081,Agradecimentos,7,0,1,0,0,0,0,14,0
+artigo_081,Referências,62,6,4,14,2,1,1,135,2
+artigo_082,Introdução,41,4,16,9,1,0,1,75,3
+artigo_082,Materiais e Métodos,62,0,29,11,1,0,3,106,0
+artigo_082,Resultados e Discussão,51,0,20,6,4,1,4,82,5
+artigo_082,Conclusão,15,0,6,4,2,0,0,27,0
+artigo_082,Agradecimentos,9,0,2,1,0,0,0,11,0
+artigo_082,Referências,45,10,4,7,0,0,2,92,0
+artigo_083,Introdução,73,4,30,20,6,1,3,83,4
+artigo_083,Materiais e Métodos,83,0,13,12,4,0,6,79,1
+artigo_083,Resultados e Discussão,72,1,24,13,6,0,7,61,1
+artigo_083,Conclusão,11,0,2,3,0,0,0,8,0
+artigo_083,Agradecimentos,15,0,0,1,1,0,0,15,0
+artigo_083,Referências,52,7,1,7,2,0,1,101,2
+artigo_084,Introdução,79,7,30,26,5,0,3,85,5
+artigo_084,Materiais e Métodos,106,0,9,16,4,0,2,98,0
+artigo_084,Resultados e Discussão,99,1,21,17,3,0,2,67,1
+artigo_084,Conclusão,15,0,1,4,1,0,0,10,0
+artigo_084,Agradecimentos,7,0,0,4,0,0,0,6,0
+artigo_084,Referências,93,1,3,20,2,0,0,103,3
+artigo_085,Introdução,61,5,18,12,6,0,2,89,6
+artigo_085,Materiais e Métodos,77,0,8,18,5,0,2,67,1
+artigo_085,Resultados e Discussão,67,0,17,12,6,6,1,73,4
+artigo_085,Conclusão,29,0,12,5,1,2,1,29,0
+artigo_085,Agradecimentos,14,0,1,6,1,0,1,15,0
+artigo_085,Referências,60,0,3,5,1,0,0,82,1
+artigo_086,Introdução,43,0,15,11,2,0,3,38,0
+artigo_086,Materiais e Métodos,79,0,16,16,2,1,2,63,0
+artigo_086,Resultados e Discussão,168,0,51,40,10,7,9,128,0
+artigo_086,Conclusão,21,1,9,8,4,0,0,31,0
+artigo_086,Agradecimentos,0,0,0,0,0,0,0,0,0
+artigo_086,Referências,60,0,2,9,2,0,4,30,1
+artigo_087,Introdução,34,0,22,16,4,2,4,67,0
+artigo_087,Materiais e Métodos,33,0,6,8,3,0,7,52,0
+artigo_087,Resultados e Discussão,28,0,5,12,3,0,1,44,0
+artigo_087,Conclusão,24,0,6,8,1,0,0,43,0
+artigo_087,Agradecimentos,9,0,1,1,0,0,1,10,0
+artigo_087,Referências,20,0,0,0,1,0,0,13,3
+artigo_088,Introdução,32,0,11,8,1,0,0,52,0
+artigo_088,Materiais e Métodos,30,0,10,4,1,0,1,85,0
+artigo_088,Resultados e Discussão,94,0,26,21,12,1,7,184,0
+artigo_088,Conclusão,11,0,9,2,1,0,0,17,0
+artigo_088,Agradecimentos,0,0,0,0,0,0,0,0,0
+artigo_088,Referências,45,6,0,18,0,0,1,78,0
+artigo_089,Introdução,24,1,14,7,1,0,2,50,1
+artigo_089,Materiais e Métodos,14,1,2,9,0,0,0,32,0
+artigo_089,Resultados e Discussão,31,0,13,6,2,1,0,47,0
+artigo_089,Conclusão,11,0,7,7,0,0,0,35,0
+artigo_089,Agradecimentos,7,0,0,1,0,0,0,15,0
+artigo_089,Referências,13,4,0,0,0,0,0,37,1
+artigo_090,Introdução,42,1,13,11,2,0,2,40,3
+artigo_090,Materiais e Métodos,40,0,6,5,1,0,2,43,0
+artigo_090,Resultados e Discussão,33,0,9,13,4,0,0,51,0
+artigo_090,Conclusão,14,0,3,4,0,0,0,30,0
+artigo_090,Agradecimentos,6,1,0,0,0,0,0,9,0
+artigo_090,Referências,34,1,0,8,1,0,0,53,4
+artigo_091,Introdução,80,7,29,24,5,0,5,128,3
+artigo_091,Materiais e Métodos,0,0,0,0,0,0,0,0,0
+artigo_091,Resultados e Discussão,31,1,13,11,5,1,1,43,0
+artigo_091,Conclusão,10,1,3,6,3,1,1,24,0
+artigo_091,Agradecimentos,8,0,0,3,0,0,0,4,0
+artigo_091,Referências,54,49,2,11,1,0,0,187,2
+artigo_092,Introdução,35,0,15,12,4,1,4,72,0
+artigo_092,Materiais e Métodos,18,0,7,2,3,0,1,37,0
+artigo_092,Resultados e Discussão,58,0,15,11,8,1,5,95,0
+artigo_092,Conclusão,15,0,8,3,1,1,1,23,0
+artigo_092,Agradecimentos,7,0,1,4,0,0,0,13,0
+artigo_092,Referências,40,3,3,5,1,0,1,51,1
+artigo_093,Introdução,24,2,9,5,0,2,0,29,0
+artigo_093,Materiais e Métodos,180,4,56,23,11,2,8,221,1
+artigo_093,Resultados e Discussão,61,0,31,12,4,5,2,76,0
+artigo_093,Conclusão,25,0,12,5,3,0,1,30,0
+artigo_093,Agradecimentos,2,0,0,0,0,0,0,6,0
+artigo_093,Referências,24,18,1,0,0,0,0,78,0
+artigo_094,Introdução,69,2,27,16,5,0,3,88,3
+artigo_094,Materiais e Métodos,11,0,0,1,0,0,0,6,0
+artigo_094,Resultados e Discussão,77,2,22,26,2,0,1,102,1
+artigo_094,Conclusão,22,0,10,7,3,0,0,28,0
+artigo_094,Agradecimentos,12,0,2,8,1,0,0,20,0
+artigo_094,Referências,43,14,4,6,0,0,0,83,2
+artigo_095,Introdução,23,2,13,18,4,3,5,44,2
+artigo_095,Materiais e Métodos,44,5,10,21,4,1,0,74,0
+artigo_095,Resultados e Discussão,163,16,46,73,15,5,2,301,1
+artigo_095,Conclusão,17,1,8,15,5,0,1,32,0
+artigo_095,Agradecimentos,14,0,0,3,0,0,0,10,0
+artigo_095,Referências,12,14,1,4,0,0,0,56,0
+artigo_096,Introdução,37,1,8,9,2,0,5,24,0
+artigo_096,Materiais e Métodos,48,0,9,9,0,0,2,44,0
+artigo_096,Resultados e Discussão,111,4,56,26,17,6,4,89,0
+artigo_096,Conclusão,33,1,12,12,5,0,1,29,0
+artigo_096,Agradecimentos,18,0,0,6,1,0,0,12,0
+artigo_096,Referências,50,2,7,10,8,0,3,44,0
+artigo_097,Introdução,56,6,20,20,4,3,1,60,2
+artigo_097,Materiais e Métodos,117,2,39,38,14,1,2,156,1
+artigo_097,Resultados e Discussão,32,0,13,17,3,2,0,44,0
+artigo_097,Conclusão,30,0,14,7,5,0,0,28,0
+artigo_097,Agradecimentos,0,0,0,0,0,0,0,0,0
+artigo_097,Referências,32,29,0,2,0,0,0,100,2
+artigo_098,Introdução,36,3,15,15,4,3,1,57,0
+artigo_098,Materiais e Métodos,10,0,4,2,1,0,0,23,0
+artigo_098,Resultados e Discussão,162,4,52,40,19,5,10,260,3
+artigo_098,Conclusão,25,0,9,6,0,0,0,28,0
+artigo_098,Agradecimentos,5,0,0,1,0,0,0,4,0
+artigo_098,Referências,25,9,5,6,0,0,1,86,0
+artigo_099,Introdução,114,0,47,30,12,1,5,138,4
+artigo_099,Materiais e Métodos,85,0,9,10,1,0,2,108,0
+artigo_099,Resultados e Discussão,51,0,20,8,5,0,1,68,0
+artigo_099,Conclusão,22,0,20,5,5,0,1,39,0
+artigo_099,Agradecimentos,11,0,2,0,0,0,0,10,0
+artigo_099,Referências,39,4,2,5,1,0,0,54,2
+artigo_100,Introdução,71,3,29,29,9,2,5,89,5
+artigo_100,Materiais e Métodos,86,2,25,16,3,0,4,86,2
+artigo_100,Resultados e Discussão,65,3,25,11,2,1,4,65,3
+artigo_100,Conclusão,18,0,10,12,4,0,0,31,0
+artigo_100,Agradecimentos,0,0,0,0,0,0,0,0,0
+artigo_100,Referências,178,26,50,63,21,2,1,243,10
+artigo_102,Introdução,66,2,24,23,2,0,5,75,6
+artigo_102,Materiais e Métodos,25,0,6,5,2,0,3,40,0
+artigo_102,Resultados e Discussão,50,0,25,18,6,5,2,83,3
+artigo_102,Conclusão,36,0,18,12,5,0,1,41,0
+artigo_102,Agradecimentos,5,0,0,3,0,0,0,5,0
+artigo_102,Referências,45,3,1,13,0,0,3,66,2
+artigo_103,Introdução,45,1,11,14,4,1,3,61,1
+artigo_103,Materiais e Métodos,46,1,4,7,4,0,2,66,0
+artigo_103,Resultados e Discussão,68,0,26,19,4,1,3,68,1
+artigo_103,Conclusão,28,0,13,9,3,0,1,36,0
+artigo_103,Agradecimentos,9,0,0,1,0,0,0,12,0
+artigo_103,Referências,23,1,1,3,1,0,0,41,1
+artigo_104,Introdução,51,2,10,21,4,0,0,46,2
+artigo_104,Materiais e Métodos,42,0,7,3,2,0,2,35,0
+artigo_104,Resultados e Discussão,74,0,22,22,6,2,2,53,0
+artigo_104,Conclusão,17,0,6,7,1,0,0,18,0
+artigo_104,Agradecimentos,5,0,2,2,0,0,0,6,0
+artigo_104,Referências,37,0,1,7,2,0,1,70,4
+artigo_105,Introdução,44,1,15,11,2,1,2,63,2
+artigo_105,Materiais e Métodos,118,5,31,21,3,2,3,206,2
+artigo_105,Resultados e Discussão,59,1,23,17,4,0,4,110,0
+artigo_105,Conclusão,35,0,14,14,2,0,3,59,0
+artigo_105,Agradecimentos,7,0,1,2,0,0,0,3,0
+artigo_105,Referências,46,1,2,12,0,0,0,45,1
+artigo_106,Introdução,45,1,9,15,4,2,5,46,2
+artigo_106,Materiais e Métodos,40,1,11,8,2,0,3,57,2
+artigo_106,Resultados e Discussão,132,5,44,41,9,1,15,157,5
+artigo_106,Conclusão,30,0,10,8,2,1,2,26,0
+artigo_106,Agradecimentos,3,0,1,1,1,0,0,13,0
+artigo_106,Referências,77,1,0,25,1,0,0,91,2
+artigo_107,Introdução,40,2,21,15,5,0,3,56,3
+artigo_107,Materiais e Métodos,44,0,14,14,2,2,0,64,0
+artigo_107,Resultados e Discussão,61,0,17,24,7,1,1,81,0
+artigo_107,Conclusão,11,0,4,3,3,0,0,11,0
+artigo_107,Agradecimentos,14,0,4,8,0,0,0,18,0
+artigo_107,Referências,35,5,2,11,0,0,1,66,0
+artigo_108,Introdução,64,3,19,14,6,0,5,82,4
+artigo_108,Materiais e Métodos,50,0,9,12,3,0,3,81,0
+artigo_108,Resultados e Discussão,67,1,14,10,3,1,3,70,1
+artigo_108,Conclusão,49,0,13,13,6,2,3,46,0
+artigo_108,Agradecimentos,0,0,0,0,0,0,0,0,0
+artigo_108,Referências,42,6,1,5,0,0,0,73,0
+artigo_109,Introdução,43,3,14,19,3,1,3,68,4
+artigo_109,Materiais e Métodos,16,0,3,3,0,0,0,26,0
+artigo_109,Resultados e Discussão,131,0,41,18,9,0,4,254,0
+artigo_109,Conclusão,9,0,5,5,0,0,1,27,0
+artigo_109,Agradecimentos,0,0,0,0,0,0,0,0,0
+artigo_109,Referências,46,2,0,7,2,0,0,59,4
+artigo_110,Introdução,32,7,10,19,3,0,2,63,0
+artigo_110,Materiais e Métodos,24,3,3,21,3,0,0,54,2
+artigo_110,Resultados e Discussão,110,9,30,59,10,0,4,157,0
+artigo_110,Conclusão,19,2,8,9,3,0,2,32,0
+artigo_110,Agradecimentos,9,0,0,8,0,0,0,5,0
+artigo_110,Referências,32,9,3,2,0,0,0,74,0
+artigo_111,Introdução,69,3,20,9,7,1,2,79,0
+artigo_111,Materiais e Métodos,60,0,4,11,1,0,1,69,0
+artigo_111,Resultados e Discussão,23,0,5,3,1,0,1,19,1
+artigo_111,Conclusão,30,0,11,8,6,1,0,37,0
+artigo_111,Agradecimentos,6,0,1,0,0,0,0,6,0
+artigo_111,Referências,20,4,0,3,0,0,0,43,0
+artigo_112,Introdução,58,1,20,19,7,4,2,78,6
+artigo_112,Materiais e Métodos,80,0,12,7,5,0,5,107,3
+artigo_112,Resultados e Discussão,66,1,31,10,17,7,1,94,2
+artigo_112,Conclusão,4,0,4,1,3,2,0,14,0
+artigo_112,Agradecimentos,4,0,1,3,1,0,0,5,0
+artigo_112,Referências,63,3,0,16,1,0,2,92,3
+artigo_113,Introdução,67,2,19,19,5,1,0,101,4
+artigo_113,Materiais e Métodos,72,2,22,26,4,0,3,99,4
+artigo_113,Resultados e Discussão,186,6,51,62,11,2,4,262,9
+artigo_113,Conclusão,17,0,4,8,0,0,0,27,0
+artigo_113,Agradecimentos,11,0,0,5,0,0,0,8,0
+artigo_113,Referências,58,10,3,13,0,0,0,95,0
+artigo_114,Introdução,48,4,20,24,3,3,1,104,5
+artigo_114,Materiais e Métodos,15,0,3,6,0,0,0,25,0
+artigo_114,Resultados e Discussão,112,5,30,39,15,3,1,141,2
+artigo_114,Conclusão,41,2,10,16,3,0,1,69,0
+artigo_114,Agradecimentos,4,0,0,3,0,0,0,4,0
+artigo_114,Referências,68,11,0,21,0,0,2,119,0
+artigo_115,Introdução,81,7,32,31,20,2,5,144,6
+artigo_115,Materiais e Métodos,22,1,2,6,1,0,2,28,0
+artigo_115,Resultados e Discussão,139,3,39,45,15,2,6,141,1
+artigo_115,Conclusão,74,6,30,37,8,0,1,93,2
+artigo_115,Agradecimentos,4,0,0,3,0,0,0,6,0
+artigo_115,Referências,63,12,5,21,0,0,2,93,0
+artigo_116,Introdução,65,4,28,20,1,0,3,94,5
+artigo_116,Materiais e Métodos,21,1,3,6,1,0,2,26,0
+artigo_116,Resultados e Discussão,135,8,46,41,17,4,12,169,6
+artigo_116,Conclusão,42,3,15,11,3,5,1,43,0
+artigo_116,Agradecimentos,4,0,0,3,0,0,0,4,0
+artigo_116,Referências,65,14,7,12,0,0,0,103,1
+artigo_117,Introdução,49,6,15,20,3,0,0,79,3
+artigo_117,Materiais e Métodos,21,1,1,9,1,0,2,32,1
+artigo_117,Resultados e Discussão,130,9,49,38,19,2,2,165,5
+artigo_117,Conclusão,5,0,3,4,1,0,1,18,0
+artigo_117,Agradecimentos,4,0,0,3,0,0,0,4,0
+artigo_117,Referências,72,18,1,25,0,0,2,114,0
+artigo_118,Introdução,63,7,13,23,3,1,2,99,5
+artigo_118,Materiais e Métodos,62,5,17,19,9,0,5,127,5
+artigo_118,Resultados e Discussão,71,10,23,22,8,2,6,154,7
+artigo_118,Conclusão,7,0,5,3,1,0,1,26,0
+artigo_118,Agradecimentos,5,0,1,1,0,0,0,5,0
+artigo_118,Referências,45,16,3,12,0,0,4,93,0
+artigo_119,Introdução,49,2,17,17,4,1,1,57,2
+artigo_119,Materiais e Métodos,24,3,2,15,2,2,0,46,1
+artigo_119,Resultados e Discussão,104,6,24,39,11,6,3,150,0
+artigo_119,Conclusão,19,1,10,8,7,1,2,34,0
+artigo_119,Agradecimentos,9,0,0,8,0,0,0,5,0
+artigo_119,Referências,11,6,0,8,0,0,0,54,0
+artigo_120,Introdução,48,1,15,8,4,0,0,46,0
+artigo_120,Materiais e Métodos,53,1,20,5,3,0,1,58,4
+artigo_120,Resultados e Discussão,170,2,59,25,5,4,6,190,4
+artigo_120,Conclusão,19,0,10,8,1,3,0,21,0
+artigo_120,Agradecimentos,0,0,0,0,0,0,0,0,0
+artigo_120,Referências,39,4,2,7,0,0,0,110,2
+artigo_121,Introdução,97,2,40,28,7,2,4,121,5
+artigo_121,Materiais e Métodos,44,0,29,8,4,0,2,70,0
+artigo_121,Resultados e Discussão,64,0,17,18,5,0,3,59,0
+artigo_121,Conclusão,30,0,15,5,0,0,0,20,0
+artigo_121,Agradecimentos,8,0,0,8,0,0,0,13,0
+artigo_121,Referências,37,0,4,6,0,0,1,79,0
+artigo_122,Introdução,47,0,22,21,0,0,0,54,0
+artigo_122,Materiais e Métodos,93,1,21,23,3,0,3,73,0
+artigo_122,Resultados e Discussão,75,0,20,17,4,0,3,63,0
+artigo_122,Conclusão,10,0,9,4,0,0,0,13,0
+artigo_122,Agradecimentos,9,1,0,5,0,0,1,15,0
+artigo_122,Referências,13,2,2,2,0,0,0,13,0
+artigo_123,Introdução,1,0,0,1,0,0,0,2,0
+artigo_123,Materiais e Métodos,39,0,12,4,1,0,1,79,1
+artigo_123,Resultados e Discussão,243,3,66,71,14,1,15,378,5
+artigo_123,Conclusão,31,0,12,15,2,0,2,40,0
+artigo_123,Agradecimentos,6,0,0,4,0,0,0,5,0
+artigo_123,Referências,44,3,3,6,0,0,0,52,7
+artigo_124,Introdução,53,4,15,11,5,1,2,80,2
+artigo_124,Materiais e Métodos,31,0,5,6,3,0,0,45,0
+artigo_124,Resultados e Discussão,89,0,16,16,3,0,1,109,0
+artigo_124,Conclusão,18,0,5,6,0,0,0,16,0
+artigo_124,Agradecimentos,10,0,0,0,0,0,1,19,0
+artigo_124,Referências,56,6,2,19,0,0,0,92,6
+artigo_125,Introdução,72,2,26,17,3,2,6,64,3
+artigo_125,Materiais e Métodos,117,0,18,19,12,0,5,102,0
+artigo_125,Resultados e Discussão,56,0,13,16,15,1,3,49,1
+artigo_125,Conclusão,7,0,3,2,2,0,1,6,0
+artigo_125,Agradecimentos,9,0,0,0,0,0,0,16,0
+artigo_125,Referências,66,5,0,9,2,0,1,55,2
+artigo_126,Introdução,56,4,34,19,7,0,2,112,3
+artigo_126,Materiais e Métodos,51,0,6,9,4,0,4,52,0
+artigo_126,Resultados e Discussão,42,4,26,7,8,0,2,62,4
+artigo_126,Conclusão,13,0,5,3,0,0,1,11,0
+artigo_126,Agradecimentos,4,0,0,0,0,0,0,10,0
+artigo_126,Referências,83,12,3,19,1,0,2,106,1
+artigo_127,Introdução,61,1,26,18,3,1,2,41,1
+artigo_127,Materiais e Métodos,75,0,13,10,8,0,4,77,0
+artigo_127,Resultados e Discussão,64,3,13,15,14,0,3,66,2
+artigo_127,Conclusão,10,0,3,2,3,0,0,7,0
+artigo_127,Agradecimentos,9,0,0,0,0,0,0,16,0
+artigo_127,Referências,60,5,0,7,2,0,2,63,2
+artigo_128,Introdução,78,8,20,15,6,1,4,135,5
+artigo_128,Materiais e Métodos,57,1,12,18,5,0,4,115,1
+artigo_128,Resultados e Discussão,47,3,19,15,2,2,3,71,4
+artigo_128,Conclusão,22,0,4,4,3,2,0,42,0
+artigo_128,Agradecimentos,4,0,0,3,0,0,0,3,0
+artigo_128,Referências,43,10,1,15,0,0,1,128,1
+artigo_129,Introdução,27,0,15,11,5,0,1,39,2
+artigo_129,Materiais e Métodos,50,0,20,22,5,0,1,81,0
+artigo_129,Resultados e Discussão,101,0,29,29,4,4,6,103,1
+artigo_129,Conclusão,36,0,11,19,2,0,0,74,0
+artigo_129,Agradecimentos,8,0,0,4,0,0,0,15,0
+artigo_129,Referências,15,4,1,3,0,0,0,37,1
+artigo_130,Introdução,47,2,23,23,11,0,2,65,3
+artigo_130,Materiais e Métodos,12,2,0,10,2,0,1,31,4
+artigo_130,Resultados e Discussão,103,11,50,41,7,1,3,128,7
+artigo_130,Conclusão,11,0,12,8,4,0,1,26,0
+artigo_130,Agradecimentos,14,0,2,4,2,0,0,14,0
+artigo_130,Referências,39,6,2,18,0,0,0,65,0
+artigo_131,Introdução,20,1,11,5,3,3,2,36,2
+artigo_131,Materiais e Métodos,150,9,59,28,13,2,10,116,4
+artigo_131,Resultados e Discussão,51,0,27,15,8,3,0,51,0
+artigo_131,Conclusão,9,0,3,2,0,0,0,11,0
+artigo_131,Agradecimentos,8,0,0,4,0,0,0,8,0
+artigo_131,Referências,63,6,5,9,0,0,0,107,3
+artigo_132,Introdução,31,1,11,10,3,0,4,36,0
+artigo_132,Materiais e Métodos,57,1,10,19,1,1,1,68,2
+artigo_132,Resultados e Discussão,41,3,9,5,1,0,1,35,1
+artigo_132,Conclusão,7,0,5,2,1,0,0,4,0
+artigo_132,Agradecimentos,9,0,0,4,0,0,1,6,0
+artigo_132,Referências,27,10,0,4,0,0,0,71,0
+artigo_133,Introdução,56,4,11,18,4,3,3,84,5
+artigo_133,Materiais e Métodos,60,0,8,5,3,0,3,78,1
+artigo_133,Resultados e Discussão,31,2,17,8,3,1,2,85,0
+artigo_133,Conclusão,13,0,5,5,2,0,1,28,0
+artigo_133,Agradecimentos,7,0,0,4,0,0,1,7,0
+artigo_133,Referências,54,4,2,14,1,0,0,91,0
+artigo_134,Introdução,50,3,9,16,2,2,2,60,3
+artigo_134,Materiais e Métodos,55,0,10,3,3,0,0,62,1
+artigo_134,Resultados e Discussão,67,5,12,18,3,2,3,68,2
+artigo_134,Conclusão,16,0,3,5,0,0,0,14,0
+artigo_134,Agradecimentos,9,0,0,1,0,0,0,12,0
+artigo_134,Referências,69,6,4,16,1,0,1,84,2
+artigo_135,Introdução,42,1,18,19,9,0,2,45,4
+artigo_135,Materiais e Métodos,26,1,5,4,0,0,1,19,1
+artigo_135,Resultados e Discussão,133,7,44,43,22,4,3,113,7
+artigo_135,Conclusão,23,0,9,13,5,1,0,28,1
+artigo_135,Agradecimentos,6,0,0,1,0,0,0,4,0
+artigo_135,Referências,70,7,3,19,0,0,2,93,0
+artigo_136,Introdução,30,1,14,8,3,1,1,43,0
+artigo_136,Materiais e Métodos,54,0,7,10,4,2,2,79,1
+artigo_136,Resultados e Discussão,70,1,39,25,9,1,8,117,6
+artigo_136,Conclusão,23,0,16,6,2,1,1,31,1
+artigo_136,Agradecimentos,8,0,0,1,0,0,0,14,0
+artigo_136,Referências,41,13,1,8,0,0,1,89,2
+artigo_137,Introdução,38,0,10,8,3,1,5,29,0
+artigo_137,Materiais e Métodos,34,0,8,6,3,0,1,31,0
+artigo_137,Resultados e Discussão,49,0,11,10,4,1,1,38,2
+artigo_137,Conclusão,9,0,2,2,0,0,0,15,0
+artigo_137,Agradecimentos,7,0,0,1,0,0,0,6,0
+artigo_137,Referências,30,0,0,8,0,0,0,26,0
+artigo_138,Introdução,29,1,15,19,5,1,2,57,5
+artigo_138,Materiais e Métodos,142,4,69,47,9,6,7,204,5
+artigo_138,Resultados e Discussão,33,2,11,7,3,1,2,45,0
+artigo_138,Conclusão,31,0,13,10,1,0,1,34,0
+artigo_138,Agradecimentos,8,0,3,0,0,0,0,11,0
+artigo_138,Referências,54,4,3,10,0,0,1,108,1
+artigo_139,Introdução,43,6,17,10,3,2,3,61,3
+artigo_139,Materiais e Métodos,48,0,15,6,1,0,2,87,0
+artigo_139,Resultados e Discussão,49,6,16,16,2,4,1,53,4
+artigo_139,Conclusão,21,1,4,10,4,0,2,28,0
+artigo_139,Agradecimentos,7,0,1,0,0,0,0,10,0
+artigo_139,Referências,53,17,2,10,0,0,1,132,0
+artigo_140,Introdução,85,6,23,22,2,1,4,49,6
+artigo_140,Materiais e Métodos,102,0,15,14,13,0,2,110,0
+artigo_140,Resultados e Discussão,81,2,19,20,8,5,1,99,4
+artigo_140,Conclusão,40,0,8,11,5,1,1,40,0
+artigo_140,Agradecimentos,6,0,0,1,0,0,0,9,0
+artigo_140,Referências,43,23,1,3,0,0,0,89,0
+artigo_141,Introdução,18,2,9,10,3,1,1,34,1
+artigo_141,Materiais e Métodos,45,0,11,13,6,0,2,101,1
+artigo_141,Resultados e Discussão,135,2,60,40,19,1,11,247,8
+artigo_141,Conclusão,4,0,3,1,0,0,0,5,0
+artigo_141,Agradecimentos,4,0,0,1,0,0,1,3,0
+artigo_141,Referências,54,3,1,10,0,0,1,103,0
+artigo_142,Introdução,55,0,20,23,2,1,4,97,1
+artigo_142,Materiais e Métodos,43,0,10,7,2,0,4,58,2
+artigo_142,Resultados e Discussão,130,0,63,36,9,5,9,130,2
+artigo_142,Conclusão,18,0,9,8,3,0,1,32,0
+artigo_142,Agradecimentos,10,0,0,3,1,0,0,13,0
+artigo_142,Referências,24,0,2,4,0,0,0,35,0
+artigo_143,Introdução,52,1,20,30,0,0,6,80,0
+artigo_143,Materiais e Métodos,19,0,11,9,0,0,1,22,1
+artigo_143,Resultados e Discussão,130,0,71,64,13,2,5,221,2
+artigo_143,Conclusão,9,0,4,14,2,0,0,28,0
+artigo_143,Agradecimentos,6,0,1,4,0,0,0,9,0
+artigo_143,Referências,21,0,3,11,0,0,0,53,0
+artigo_144,Introdução,9,0,5,2,0,0,0,12,0
+artigo_144,Materiais e Métodos,102,0,40,28,6,4,2,122,2
+artigo_144,Resultados e Discussão,93,1,45,38,6,2,4,137,4
+artigo_144,Conclusão,22,0,14,7,1,0,1,38,0
+artigo_144,Agradecimentos,3,0,0,1,0,0,0,5,0
+artigo_144,Referências,18,2,0,6,0,0,0,35,0
+artigo_145,Introdução,6,0,3,4,1,0,1,8,0
+artigo_145,Materiais e Métodos,93,1,40,35,10,1,6,115,5
+artigo_145,Resultados e Discussão,19,0,10,5,3,0,3,25,3
+artigo_145,Conclusão,12,0,8,9,1,0,0,14,0
+artigo_145,Agradecimentos,2,0,0,1,0,0,0,5,0
+artigo_145,Referências,32,2,8,10,0,0,0,73,0
+artigo_146,Introdução,33,0,18,14,8,3,6,96,1
+artigo_146,Materiais e Métodos,20,0,6,6,3,1,3,31,0
+artigo_146,Resultados e Discussão,232,0,127,63,41,4,33,344,18
+artigo_146,Conclusão,36,0,24,14,9,0,3,54,0
+artigo_146,Agradecimentos,10,0,0,2,1,0,0,17,0
+artigo_146,Referências,29,3,3,4,1,0,0,57,0
+artigo_147,Introdução,30,0,7,10,3,0,0,21,0
+artigo_147,Materiais e Métodos,57,1,34,12,9,0,12,75,0
+artigo_147,Resultados e Discussão,143,2,81,37,18,3,27,212,2
+artigo_147,Conclusão,10,0,2,1,0,0,2,9,0
+artigo_147,Agradecimentos,9,0,0,1,1,0,0,18,0
+artigo_147,Referências,39,0,2,7,0,0,0,52,0
+artigo_148,Introdução,32,1,12,12,4,0,2,36,1
+artigo_148,Materiais e Métodos,47,0,11,5,3,0,1,68,1
+artigo_148,Resultados e Discussão,191,8,48,47,8,2,12,218,8
+artigo_148,Conclusão,15,0,9,3,0,0,0,8,0
+artigo_148,Agradecimentos,1,0,0,0,0,0,0,4,0
+artigo_148,Referências,114,28,3,15,0,0,1,165,0
+artigo_149,Introdução,50,4,17,11,6,2,2,52,1
+artigo_149,Materiais e Métodos,61,1,8,8,6,1,1,83,1
+artigo_149,Resultados e Discussão,164,6,41,44,14,6,8,138,7
+artigo_149,Conclusão,12,0,4,6,1,0,1,10,0
+artigo_149,Agradecimentos,1,0,0,0,0,0,0,4,0
+artigo_149,Referências,83,20,2,16,0,0,0,111,3
+artigo_150,Introdução,47,5,12,9,2,2,0,75,0
+artigo_150,Materiais e Métodos,96,4,18,18,6,0,2,234,6
+artigo_150,Resultados e Discussão,60,0,22,20,7,0,8,127,1
+artigo_150,Conclusão,16,0,5,3,1,0,1,14,0
+artigo_150,Agradecimentos,1,0,0,0,0,0,0,4,0
+artigo_150,Referências,57,11,3,12,0,0,1,88,1
+artigo_151,Introdução,37,3,13,14,3,0,0,45,0
+artigo_151,Materiais e Métodos,231,9,60,65,18,1,8,226,3
+artigo_151,Resultados e Discussão,125,0,32,23,5,2,4,105,0
+artigo_151,Conclusão,0,0,0,0,0,0,0,0,0
+artigo_151,Agradecimentos,1,0,2,1,0,0,0,2,0
+artigo_151,Referências,234,9,49,46,10,2,8,287,0
+artigo_152,Introdução,148,1,67,54,12,5,5,226,3
+artigo_152,Materiais e Métodos,81,0,26,14,10,2,1,92,0
+artigo_152,Resultados e Discussão,23,0,3,5,1,0,6,36,0
+artigo_152,Conclusão,138,0,30,28,12,1,11,214,0
+artigo_152,Agradecimentos,13,0,3,2,3,0,1,23,0
+artigo_152,Referências,19,1,0,6,0,0,1,35,0
+artigo_153,Introdução,64,1,17,14,5,1,2,125,0
+artigo_153,Materiais e Métodos,22,0,2,8,2,0,3,71,0
+artigo_153,Resultados e Discussão,52,0,14,15,7,1,5,100,0
+artigo_153,Conclusão,15,0,1,4,0,0,1,27,0
+artigo_153,Agradecimentos,5,0,0,1,0,0,0,10,0
+artigo_153,Referências,45,14,5,17,0,0,2,100,1
+artigo_154,Introdução,43,1,21,10,6,0,0,58,0
+artigo_154,Materiais e Métodos,54,1,9,7,2,0,1,84,1
+artigo_154,Resultados e Discussão,31,0,8,11,2,1,1,54,0
+artigo_154,Conclusão,26,0,9,7,1,0,2,39,0
+artigo_154,Agradecimentos,5,0,1,1,0,0,0,9,0
+artigo_154,Referências,30,6,0,14,0,0,0,71,0
+artigo_155,Introdução,73,3,16,15,7,4,4,58,1
+artigo_155,Materiais e Métodos,112,0,7,17,4,0,0,99,0
+artigo_155,Resultados e Discussão,89,3,20,26,7,1,1,98,1
+artigo_155,Conclusão,19,0,7,6,1,2,2,19,0
+artigo_155,Agradecimentos,12,0,1,5,0,0,0,12,0
+artigo_155,Referências,80,9,0,7,1,0,0,107,3
+artigo_156,Introdução,58,0,21,19,3,2,1,42,2
+artigo_156,Materiais e Métodos,54,0,10,17,4,0,4,77,0
+artigo_156,Resultados e Discussão,1,0,2,0,0,0,0,2,0
+artigo_156,Conclusão,64,0,20,20,8,0,4,65,1
+artigo_156,Agradecimentos,11,0,1,6,1,0,0,8,0
+artigo_156,Referências,25,3,1,13,0,0,0,62,0
+artigo_157,Introdução,43,1,13,19,5,0,5,58,1
+artigo_157,Materiais e Métodos,34,0,14,10,1,0,5,47,0
+artigo_157,Resultados e Discussão,59,0,45,15,16,4,8,104,1
+artigo_157,Conclusão,18,0,10,8,2,3,0,17,0
+artigo_157,Agradecimentos,20,0,0,8,0,0,0,14,0
+artigo_157,Referências,19,5,0,1,0,0,0,28,0
+artigo_158,Introdução,56,1,17,18,4,2,6,66,0
+artigo_158,Materiais e Métodos,92,1,29,23,2,0,2,116,1
+artigo_158,Resultados e Discussão,53,0,19,21,3,0,2,73,0
+artigo_158,Conclusão,13,0,3,4,0,2,0,16,0
+artigo_158,Agradecimentos,9,1,2,2,0,0,0,7,0
+artigo_158,Referências,25,5,1,5,0,0,0,41,2
+artigo_159,Introdução,41,1,14,20,4,0,4,46,1
+artigo_159,Materiais e Métodos,24,1,4,8,1,0,1,36,0
+artigo_159,Resultados e Discussão,37,1,6,10,2,3,1,31,0
+artigo_159,Conclusão,14,2,1,4,1,0,0,17,0
+artigo_159,Agradecimentos,7,0,1,1,0,0,0,8,0
+artigo_159,Referências,68,3,3,24,0,0,2,87,1
+artigo_160,Introdução,35,1,10,14,1,0,4,49,0
+artigo_160,Materiais e Métodos,45,2,11,11,4,0,1,59,4
+artigo_160,Resultados e Discussão,48,1,15,14,5,3,5,54,0
+artigo_160,Conclusão,27,1,16,9,5,4,2,54,0
+artigo_160,Agradecimentos,0,0,0,0,0,0,0,0,0
+artigo_160,Referências,24,15,1,7,0,0,0,61,0
+artigo_161,Introdução,39,1,12,13,4,2,2,46,1
+artigo_161,Materiais e Métodos,113,1,9,22,5,0,1,135,4
+artigo_161,Resultados e Discussão,34,0,8,8,3,2,1,52,1
+artigo_161,Conclusão,35,0,8,17,1,2,3,44,0
+artigo_161,Agradecimentos,18,0,1,5,0,0,0,12,0
+artigo_161,Referências,85,7,3,14,4,0,1,158,2
+artigo_162,Introdução,34,5,13,10,2,1,1,48,4
+artigo_162,Materiais e Métodos,97,0,13,18,3,0,5,82,0
+artigo_162,Resultados e Discussão,66,0,17,15,2,2,2,50,0
+artigo_162,Conclusão,4,0,1,0,1,0,0,3,0
+artigo_162,Agradecimentos,9,0,0,0,0,0,0,16,0
+artigo_162,Referências,72,9,1,12,0,0,0,70,2
+artigo_163,Introdução,49,5,10,8,2,1,2,52,9
+artigo_163,Materiais e Métodos,93,1,28,15,7,2,5,84,0
+artigo_163,Resultados e Discussão,252,5,96,41,23,10,16,211,1
+artigo_163,Conclusão,351,12,131,53,29,12,19,303,10
+artigo_163,Agradecimentos,6,1,0,3,0,0,0,11,0
+artigo_163,Referências,55,3,1,11,0,0,0,49,0
+artigo_164,Introdução,66,4,26,20,6,0,3,119,5
+artigo_164,Materiais e Métodos,23,0,4,3,1,0,2,38,0
+artigo_164,Resultados e Discussão,85,8,34,19,6,2,5,198,7
+artigo_164,Conclusão,21,2,7,4,4,0,0,44,0
+artigo_164,Agradecimentos,5,0,1,0,0,0,0,4,0
+artigo_164,Referências,22,23,1,3,0,0,0,150,2
+artigo_165,Introdução,0,0,0,0,0,0,0,0,0
+artigo_165,Materiais e Métodos,0,0,0,0,0,0,0,0,0
+artigo_165,Resultados e Discussão,0,0,0,0,0,0,0,0,0
+artigo_165,Conclusão,0,0,0,0,0,0,0,0,0
+artigo_165,Agradecimentos,0,0,0,0,0,0,0,0,0
+artigo_165,Referências,0,0,0,0,0,0,0,0,0
+artigo_166,Introdução,51,4,13,19,1,1,1,74,4
+artigo_166,Materiais e Métodos,61,2,6,11,3,0,1,101,2
+artigo_166,Resultados e Discussão,45,2,16,7,4,1,1,39,2
+artigo_166,Conclusão,12,0,5,4,0,0,0,13,0
+artigo_166,Agradecimentos,2,0,0,0,0,0,0,2,0
+artigo_166,Referências,127,8,4,21,0,1,0,130,3
+artigo_167,Introdução,56,4,17,26,4,1,4,89,6
+artigo_167,Materiais e Métodos,74,1,21,24,4,0,1,114,3
+artigo_167,Resultados e Discussão,30,0,8,15,2,2,1,64,0
+artigo_167,Conclusão,19,0,8,5,1,0,1,39,0
+artigo_167,Agradecimentos,7,0,0,1,0,0,1,10,0
+artigo_167,Referências,85,7,2,23,0,0,0,118,0
+artigo_168,Introdução,30,1,12,15,0,0,2,28,1
+artigo_168,Materiais e Métodos,22,0,2,7,0,0,0,40,0
+artigo_168,Resultados e Discussão,63,0,14,19,5,0,1,71,0
+artigo_168,Conclusão,10,0,6,5,1,0,0,17,0
+artigo_168,Agradecimentos,8,1,0,6,0,0,0,6,0
+artigo_168,Referências,26,1,3,12,0,0,0,41,0
+artigo_169,Introdução,35,0,15,13,4,1,2,63,1
+artigo_169,Materiais e Métodos,46,0,12,10,1,0,1,69,3
+artigo_169,Resultados e Discussão,54,0,24,19,4,1,4,81,5
+artigo_169,Conclusão,34,0,17,14,7,0,2,54,0
+artigo_169,Agradecimentos,7,0,0,5,0,0,0,8,0
+artigo_169,Referências,44,1,2,5,0,0,1,106,0
+artigo_170,Introdução,35,2,16,11,2,1,0,57,6
+artigo_170,Materiais e Métodos,44,2,13,19,1,3,3,82,2
+artigo_170,Resultados e Discussão,36,0,13,12,2,3,1,30,0
+artigo_170,Conclusão,16,0,7,4,0,1,0,17,0
+artigo_170,Agradecimentos,7,0,0,3,0,0,0,6,0
+artigo_170,Referências,85,10,5,24,1,0,0,121,3
+artigo_171,Introdução,42,0,18,11,6,1,0,59,0
+artigo_171,Materiais e Métodos,31,0,9,4,1,0,1,43,0
+artigo_171,Resultados e Discussão,57,1,14,11,1,0,2,88,0
+artigo_171,Conclusão,29,0,11,6,5,1,1,39,0
+artigo_171,Agradecimentos,11,0,1,0,1,0,0,13,0
+artigo_171,Referências,13,2,0,2,0,0,0,25,0
+artigo_172,Introdução,51,3,17,18,2,1,4,56,0
+artigo_172,Materiais e Métodos,44,2,9,10,1,0,1,52,5
+artigo_172,Resultados e Discussão,60,1,15,17,2,2,8,61,0
+artigo_172,Conclusão,90,3,21,26,2,3,9,95,0
+artigo_172,Agradecimentos,6,1,2,4,0,0,0,17,0
+artigo_172,Referências,48,5,1,9,0,0,1,71,0
+artigo_173,Introdução,60,2,22,22,7,2,5,85,4
+artigo_173,Materiais e Métodos,49,0,9,6,2,0,1,95,0
+artigo_173,Resultados e Discussão,133,2,36,34,12,3,4,146,0
+artigo_173,Conclusão,16,0,7,4,2,0,1,20,0
+artigo_173,Agradecimentos,7,1,2,5,1,0,1,25,0
+artigo_173,Referências,45,2,1,11,0,0,3,97,1
+artigo_174,Introdução,2,0,1,0,0,0,0,0,0
+artigo_174,Materiais e Métodos,29,0,17,4,3,0,3,49,3
+artigo_174,Resultados e Discussão,188,0,86,43,17,3,14,171,2
+artigo_174,Conclusão,34,0,18,13,3,0,1,28,0
+artigo_174,Agradecimentos,14,0,0,5,0,0,1,11,0
+artigo_174,Referências,18,0,5,5,0,0,0,19,1
+artigo_175,Introdução,67,6,39,21,6,0,2,110,4
+artigo_175,Materiais e Métodos,52,1,8,3,2,0,2,60,2
+artigo_175,Resultados e Discussão,95,7,35,18,7,3,6,183,5
+artigo_175,Conclusão,9,3,7,7,4,1,2,30,2
+artigo_175,Agradecimentos,0,0,0,0,0,0,0,0,0
+artigo_175,Referências,33,18,4,8,0,0,0,112,10
+artigo_176,Introdução,16,0,13,6,0,0,1,28,0
+artigo_176,Materiais e Métodos,133,2,29,19,3,0,1,186,0
+artigo_176,Resultados e Discussão,33,0,12,14,1,0,2,38,0
+artigo_176,Conclusão,11,0,4,3,0,0,0,19,0
+artigo_176,Agradecimentos,12,0,0,7,0,0,0,17,0
+artigo_176,Referências,10,1,0,0,0,0,1,32,0
+artigo_177,Introdução,50,1,10,3,3,0,0,68,5
+artigo_177,Materiais e Métodos,184,0,82,22,12,3,11,373,9
+artigo_177,Resultados e Discussão,265,2,106,42,21,5,12,508,18
+artigo_177,Conclusão,21,0,15,7,4,0,1,19,0
+artigo_177,Agradecimentos,7,0,0,5,0,0,0,6,0
+artigo_177,Referências,50,25,2,2,2,0,0,144,6
+artigo_178,Introdução,51,5,21,21,1,1,0,97,0
+artigo_178,Materiais e Métodos,74,2,13,15,3,0,1,93,0
+artigo_178,Resultados e Discussão,75,2,25,26,4,2,5,105,1
+artigo_178,Conclusão,16,0,9,6,1,0,0,29,0
+artigo_178,Agradecimentos,5,0,0,2,0,0,0,11,0
+artigo_178,Referências,56,45,3,11,0,0,2,164,1
+artigo_179,Introdução,40,4,25,21,2,1,7,62,1
+artigo_179,Materiais e Métodos,27,0,2,6,0,0,2,39,0
+artigo_179,Resultados e Discussão,188,1,99,49,41,6,6,222,0
+artigo_179,Conclusão,28,0,17,14,5,1,3,36,0
+artigo_179,Agradecimentos,0,0,0,0,0,0,0,0,0
+artigo_179,Referências,42,2,2,18,0,0,2,71,0
+artigo_180,Introdução,82,23,19,15,8,0,3,82,0
+artigo_180,Materiais e Métodos,39,2,17,15,5,2,0,71,0
+artigo_180,Resultados e Discussão,72,3,24,29,7,2,2,93,0
+artigo_180,Conclusão,15,2,7,6,2,0,0,23,0
+artigo_180,Agradecimentos,6,0,0,1,0,0,0,8,0
+artigo_180,Referências,47,32,6,8,4,0,2,222,0
+artigo_181,Introdução,38,3,14,11,0,1,1,41,0
+artigo_181,Materiais e Métodos,6,0,3,0,1,0,1,22,0
+artigo_181,Resultados e Discussão,149,4,42,42,5,2,5,172,2
+artigo_181,Conclusão,13,0,5,3,0,0,0,16,0
+artigo_181,Agradecimentos,1,0,0,1,0,0,0,4,0
+artigo_181,Referências,65,24,1,2,6,0,0,147,15
+artigo_182,Introdução,60,1,16,18,5,3,1,72,2
+artigo_182,Materiais e Métodos,94,1,16,23,2,0,4,128,4
+artigo_182,Resultados e Discussão,55,0,11,17,3,0,2,74,0
+artigo_182,Conclusão,18,0,10,5,0,1,0,16,0
+artigo_182,Agradecimentos,10,0,0,5,0,0,0,10,0
+artigo_182,Referências,73,5,0,12,0,0,0,87,0
+artigo_183,Introdução,23,4,9,7,0,0,0,37,4
+artigo_183,Materiais e Métodos,3,0,0,0,0,0,0,2,0
+artigo_183,Resultados e Discussão,25,0,11,6,1,0,1,51,2
+artigo_183,Conclusão,81,0,24,13,2,0,3,118,3
+artigo_183,Agradecimentos,13,0,0,6,0,0,0,14,0
+artigo_183,Referências,54,4,0,13,0,0,0,42,3
+artigo_184,Introdução,33,1,11,11,0,1,3,56,1
+artigo_184,Materiais e Métodos,22,0,3,7,0,0,1,48,0
+artigo_184,Resultados e Discussão,75,0,33,31,2,2,6,129,0
+artigo_184,Conclusão,13,0,4,6,1,0,0,22,0
+artigo_184,Agradecimentos,0,0,0,0,0,0,0,0,0
+artigo_184,Referências,28,2,1,11,0,0,0,65,0
+artigo_185,Introdução,70,5,18,16,5,1,1,87,3
+artigo_185,Materiais e Métodos,106,1,14,14,2,1,4,139,0
+artigo_185,Resultados e Discussão,170,2,28,29,4,3,6,216,1
+artigo_185,Conclusão,33,0,14,16,2,1,0,49,0
+artigo_185,Agradecimentos,12,0,0,6,1,0,1,16,0
+artigo_185,Referências,28,17,0,2,0,0,0,99,0
+artigo_186,Introdução,28,0,8,10,4,0,0,35,1
+artigo_186,Materiais e Métodos,20,0,9,7,0,0,0,18,1
+artigo_186,Resultados e Discussão,48,0,24,11,4,0,3,50,0
+artigo_186,Conclusão,19,0,9,7,3,0,1,14,0
+artigo_186,Agradecimentos,8,0,0,3,0,0,0,12,0
+artigo_186,Referências,24,0,0,3,0,0,0,18,2
+artigo_187,Introdução,36,2,13,9,4,1,0,47,0
+artigo_187,Materiais e Métodos,51,2,16,9,9,1,2,101,0
+artigo_187,Resultados e Discussão,34,1,9,15,1,3,1,45,1
+artigo_187,Conclusão,12,1,4,3,0,0,1,10,0
+artigo_187,Agradecimentos,4,0,1,0,0,0,0,8,0
+artigo_187,Referências,27,19,3,4,0,0,0,69,0
+artigo_188,Introdução,86,1,25,19,2,1,3,91,2
+artigo_188,Materiais e Métodos,150,1,54,33,3,1,9,186,3
+artigo_188,Resultados e Discussão,137,3,42,30,14,1,7,157,0
+artigo_188,Conclusão,23,0,7,1,1,1,2,31,0
+artigo_188,Agradecimentos,11,1,1,4,1,0,0,19,0
+artigo_188,Referências,26,3,6,12,0,0,0,47,0
+artigo_189,Introdução,25,1,9,11,0,0,0,39,1
+artigo_189,Materiais e Métodos,47,1,9,12,3,0,2,45,1
+artigo_189,Resultados e Discussão,38,0,5,14,6,1,4,42,1
+artigo_189,Conclusão,16,0,6,8,0,0,1,22,0
+artigo_189,Agradecimentos,2,0,0,1,0,0,0,4,0
+artigo_189,Referências,41,7,0,9,0,0,1,61,2
+artigo_190,Introdução,37,1,19,25,6,2,3,60,1
+artigo_190,Materiais e Métodos,20,1,6,9,2,0,0,29,0
+artigo_190,Resultados e Discussão,127,7,40,32,12,8,5,163,10
+artigo_190,Conclusão,13,0,6,9,1,0,0,26,0
+artigo_190,Agradecimentos,8,0,0,3,0,0,0,11,0
+artigo_190,Referências,103,4,2,23,3,0,0,150,0
+artigo_191,Introdução,75,5,20,19,10,0,4,88,6
+artigo_191,Materiais e Métodos,44,0,4,9,0,0,1,52,1
+artigo_191,Resultados e Discussão,75,6,25,18,10,1,3,91,2
+artigo_191,Conclusão,12,0,3,6,1,0,0,15,0
+artigo_191,Agradecimentos,14,0,1,6,1,0,1,15,0
+artigo_191,Referências,60,9,2,9,3,0,0,103,2
+artigo_192,Introdução,47,0,15,10,3,1,1,42,0
+artigo_192,Materiais e Métodos,102,0,21,16,1,0,0,97,0
+artigo_192,Resultados e Discussão,77,0,25,27,7,2,2,94,0
+artigo_192,Conclusão,25,0,8,10,1,0,0,23,0
+artigo_192,Agradecimentos,0,0,0,0,0,0,0,0,0
+artigo_192,Referências,51,4,1,10,0,0,0,57,1
+artigo_193,Introdução,52,0,18,21,6,1,1,80,0
+artigo_193,Materiais e Métodos,87,0,37,19,3,0,3,94,1
+artigo_193,Resultados e Discussão,122,0,35,32,4,0,1,127,0
+artigo_193,Conclusão,13,0,4,11,1,0,0,22,0
+artigo_193,Agradecimentos,0,0,0,0,0,0,0,0,0
+artigo_193,Referências,29,3,0,3,0,0,0,42,0
+artigo_194,Introdução,64,0,15,19,3,4,1,57,1
+artigo_194,Materiais e Métodos,181,1,61,39,15,1,7,235,4
+artigo_194,Resultados e Discussão,38,0,14,8,6,0,2,49,0
+artigo_194,Conclusão,25,0,5,10,3,0,0,49,0
+artigo_194,Agradecimentos,6,0,0,4,1,0,1,6,0
+artigo_194,Referências,28,4,0,3,0,0,0,57,1
+artigo_195,Introdução,13,0,6,7,1,0,1,18,1
+artigo_195,Materiais e Métodos,46,0,19,15,4,0,3,77,5
+artigo_195,Resultados e Discussão,175,1,49,41,8,2,6,218,5
+artigo_195,Conclusão,38,0,19,11,4,2,1,67,0
+artigo_195,Agradecimentos,13,0,1,5,0,0,0,8,0
+artigo_195,Referências,57,16,3,4,0,0,0,100,0
+artigo_196,Introdução,25,0,9,5,0,0,0,24,0
+artigo_196,Materiais e Métodos,89,0,35,25,7,1,3,132,3
+artigo_196,Resultados e Discussão,114,0,54,30,16,0,2,136,2
+artigo_196,Conclusão,51,0,20,15,3,0,1,71,0
+artigo_196,Agradecimentos,15,1,3,6,1,0,0,16,0
+artigo_196,Referências,28,1,0,4,0,0,1,50,2
+artigo_197,Introdução,17,0,8,17,2,1,0,30,0
+artigo_197,Materiais e Métodos,155,0,46,26,15,2,8,242,6
+artigo_197,Resultados e Discussão,20,1,7,5,4,0,5,52,3
+artigo_197,Conclusão,46,0,23,11,8,0,1,48,0
+artigo_197,Agradecimentos,11,1,1,5,2,0,0,9,0
+artigo_197,Referências,32,11,0,3,0,0,0,93,2
+artigo_198,Introdução,70,7,16,25,5,2,4,115,6
+artigo_198,Materiais e Métodos,82,3,13,21,6,0,0,139,1
+artigo_198,Resultados e Discussão,82,2,19,14,3,2,8,95,2
+artigo_198,Conclusão,20,0,10,3,0,0,0,23,0
+artigo_198,Agradecimentos,6,0,1,2,0,0,0,6,0
+artigo_198,Referências,67,27,0,11,0,0,0,118,0
+artigo_199,Introdução,79,5,14,17,1,1,1,97,6
+artigo_199,Materiais e Métodos,145,3,20,30,3,3,4,165,0
+artigo_199,Resultados e Discussão,167,7,39,37,14,5,8,170,6
+artigo_199,Conclusão,17,0,8,5,0,2,0,16,0
+artigo_199,Agradecimentos,3,0,1,0,0,0,0,3,0
+artigo_199,Referências,89,31,2,16,0,0,0,159,0
+artigo_200,Introdução,39,4,8,13,3,2,0,52,5
+artigo_200,Materiais e Métodos,13,0,1,3,2,0,0,20,0
+artigo_200,Resultados e Discussão,57,0,11,16,5,1,1,80,3
+artigo_200,Conclusão,14,0,7,2,1,0,1,10,0
+artigo_200,Agradecimentos,2,0,0,0,0,0,0,3,0
+artigo_200,Referências,58,12,6,20,10,0,0,230,0
+artigo_201,Introdução,45,2,17,13,7,5,1,85,0
+artigo_201,Materiais e Métodos,70,0,3,11,9,0,2,110,1
+artigo_201,Resultados e Discussão,39,11,6,8,4,1,1,64,3
+artigo_201,Conclusão,11,0,5,0,0,1,0,23,1
+artigo_201,Agradecimentos,10,0,1,2,0,0,0,17,0
+artigo_201,Referências,75,16,2,13,0,0,0,106,1
+artigo_202,Introdução,30,4,6,7,5,1,4,35,3
+artigo_202,Materiais e Métodos,52,0,4,5,2,0,1,38,0
+artigo_202,Resultados e Discussão,218,7,41,17,19,2,11,238,8
+artigo_202,Conclusão,10,0,1,2,1,0,1,14,0
+artigo_202,Agradecimentos,7,0,0,1,0,0,0,6,0
+artigo_202,Referências,105,19,3,10,2,0,2,200,0
+artigo_203,Introdução,2,0,1,3,3,0,0,17,0
+artigo_203,Materiais e Métodos,70,2,19,4,7,0,3,165,0
+artigo_203,Resultados e Discussão,222,7,78,34,21,4,8,419,6
+artigo_203,Conclusão,19,0,10,7,4,0,1,23,0
+artigo_203,Agradecimentos,7,0,1,0,0,0,0,6,0
+artigo_203,Referências,26,30,0,5,0,0,0,113,0
+artigo_204,Introdução,29,2,10,14,3,1,3,47,0
+artigo_204,Materiais e Métodos,43,4,5,9,0,0,4,69,3
+artigo_204,Resultados e Discussão,39,1,17,23,8,2,1,80,1
+artigo_204,Conclusão,12,0,6,5,3,0,0,23,0
+artigo_204,Agradecimentos,11,0,0,1,0,0,0,9,0
+artigo_204,Referências,39,29,6,11,0,0,0,143,2
+artigo_205,Introdução,39,4,15,19,2,1,3,70,5
+artigo_205,Materiais e Métodos,51,0,4,4,1,0,0,77,0
+artigo_205,Resultados e Discussão,45,3,14,12,9,2,10,110,4
+artigo_205,Conclusão,17,2,8,6,1,2,1,28,0
+artigo_205,Agradecimentos,7,0,1,0,0,0,0,6,0
+artigo_205,Referências,20,49,1,3,1,0,2,114,0
+artigo_206,Introdução,42,0,26,14,5,2,2,48,1
+artigo_206,Materiais e Métodos,32,0,13,11,1,0,2,35,0
+artigo_206,Resultados e Discussão,61,0,38,21,9,3,0,81,2
+artigo_206,Conclusão,36,0,16,12,0,0,1,25,0
+artigo_206,Agradecimentos,15,0,1,1,1,0,1,12,0
+artigo_206,Referências,32,1,0,6,0,0,0,46,0
+artigo_207,Introdução,50,0,24,14,1,5,2,29,1
+artigo_207,Materiais e Métodos,18,0,5,1,0,0,0,20,0
+artigo_207,Resultados e Discussão,32,0,11,6,2,2,3,36,0
+artigo_207,Conclusão,87,0,30,18,7,2,7,95,0
+artigo_207,Agradecimentos,7,0,2,1,0,0,0,9,0
+artigo_207,Referências,22,1,0,0,1,0,0,33,0
+artigo_208,Introdução,19,0,11,8,2,0,1,26,1
+artigo_208,Materiais e Métodos,45,0,16,4,4,1,5,57,1
+artigo_208,Resultados e Discussão,54,0,23,15,6,0,6,75,0
+artigo_208,Conclusão,98,0,51,27,10,1,7,121,0
+artigo_208,Agradecimentos,5,0,1,0,1,0,1,12,0
+artigo_208,Referências,20,1,0,2,0,0,0,33,1
+artigo_209,Introdução,39,0,16,11,1,0,2,64,0
+artigo_209,Materiais e Métodos,19,0,6,7,1,1,1,36,0
+artigo_209,Resultados e Discussão,111,0,41,22,8,0,7,135,0
+artigo_209,Conclusão,31,0,10,9,0,0,0,38,0
+artigo_209,Agradecimentos,8,0,0,3,0,0,0,5,0
+artigo_209,Referências,56,2,10,11,0,0,0,81,0
+artigo_210,Introdução,2,0,1,0,0,0,0,1,0
+artigo_210,Materiais e Métodos,17,0,12,3,0,0,2,25,1
+artigo_210,Resultados e Discussão,48,1,20,12,0,0,4,60,2
+artigo_210,Conclusão,167,0,108,56,20,11,5,188,2
+artigo_210,Agradecimentos,5,0,0,5,0,0,0,9,0
+artigo_210,Referências,25,0,3,4,0,0,0,25,0
+artigo_211,Introdução,67,5,18,20,5,1,3,72,4
+artigo_211,Materiais e Métodos,46,1,11,12,5,0,2,74,2
+artigo_211,Resultados e Discussão,92,3,34,33,6,2,5,187,4
+artigo_211,Conclusão,8,0,4,3,0,0,0,10,0
+artigo_211,Agradecimentos,7,0,0,1,0,0,0,6,0
+artigo_211,Referências,69,38,4,10,2,0,0,164,1
+artigo_212,Introdução,19,1,10,5,0,3,1,41,0
+artigo_212,Materiais e Métodos,93,2,31,32,5,3,2,150,2
+artigo_212,Resultados e Discussão,30,1,20,9,3,1,1,42,0
+artigo_212,Conclusão,21,1,18,8,1,1,1,28,2
+artigo_212,Agradecimentos,8,0,1,1,0,0,0,12,0
+artigo_212,Referências,17,1,1,3,0,0,0,32,0
+artigo_213,Introdução,36,3,16,15,6,0,8,85,3
+artigo_213,Materiais e Métodos,67,0,4,11,6,1,1,103,1
+artigo_213,Resultados e Discussão,59,1,23,14,9,2,2,90,1
+artigo_213,Conclusão,18,0,8,3,6,2,2,44,0
+artigo_213,Agradecimentos,11,0,0,5,0,0,0,8,0
+artigo_213,Referências,50,5,1,6,1,0,1,123,0
+artigo_214,Introdução,34,5,10,11,2,0,0,44,4
+artigo_214,Materiais e Métodos,79,0,19,17,4,2,0,108,1
+artigo_214,Resultados e Discussão,41,3,12,18,5,1,2,100,2
+artigo_214,Conclusão,20,0,7,5,1,3,3,20,0
+artigo_214,Agradecimentos,10,0,0,4,1,0,1,15,0
+artigo_214,Referências,43,15,1,9,0,0,0,152,5
+artigo_215,Introdução,43,2,16,12,4,0,1,55,5
+artigo_215,Materiais e Métodos,78,0,15,20,5,2,1,107,0
+artigo_215,Resultados e Discussão,45,2,20,15,8,3,1,71,1
+artigo_215,Conclusão,19,0,11,3,3,1,1,18,0
+artigo_215,Agradecimentos,10,0,1,5,1,0,1,14,0
+artigo_215,Referências,50,3,2,11,0,0,0,117,0
+artigo_216,Introdução,49,6,13,13,3,1,3,80,4
+artigo_216,Materiais e Métodos,46,1,6,5,2,0,0,68,0
+artigo_216,Resultados e Discussão,101,9,36,27,5,3,6,121,4
+artigo_216,Conclusão,30,0,14,7,1,2,1,53,0
+artigo_216,Agradecimentos,7,0,1,0,0,0,0,9,0
+artigo_216,Referências,35,35,10,3,0,1,0,176,0
+artigo_217,Introdução,96,9,32,38,10,1,4,185,3
+artigo_217,Materiais e Métodos,35,11,10,9,3,0,1,76,1
+artigo_217,Resultados e Discussão,82,1,21,25,3,3,1,110,0
+artigo_217,Conclusão,15,0,9,9,0,0,1,22,0
+artigo_217,Agradecimentos,8,1,0,1,0,0,1,6,0
+artigo_217,Referências,22,30,0,4,0,0,0,101,0
+artigo_218,Introdução,92,5,52,32,8,4,3,146,8
+artigo_218,Materiais e Métodos,106,0,22,12,2,0,1,84,1
+artigo_218,Resultados e Discussão,36,0,15,15,3,1,1,43,0
+artigo_218,Conclusão,26,0,12,9,2,1,0,25,0
+artigo_218,Agradecimentos,11,1,0,3,1,0,0,19,0
+artigo_218,Referências,36,15,0,11,0,0,0,106,0
+artigo_219,Introdução,50,5,14,13,3,1,1,58,5
+artigo_219,Materiais e Métodos,43,0,9,9,2,0,1,55,0
+artigo_219,Resultados e Discussão,40,0,14,14,0,1,0,41,0
+artigo_219,Conclusão,14,0,4,3,1,0,0,12,0
+artigo_219,Agradecimentos,4,0,0,3,0,0,0,4,0
+artigo_219,Referências,26,2,1,9,0,0,0,63,0
+artigo_220,Introdução,105,0,51,47,14,2,6,107,1
+artigo_220,Materiais e Métodos,51,1,5,10,4,1,0,35,1
+artigo_220,Resultados e Discussão,21,0,7,11,3,1,1,21,0
+artigo_220,Conclusão,24,0,16,12,4,2,0,30,0
+artigo_220,Agradecimentos,7,1,0,1,0,0,0,7,0
+artigo_220,Referências,30,3,0,5,0,0,2,44,0
+artigo_221,Introdução,37,2,12,18,0,0,1,34,5
+artigo_221,Materiais e Métodos,51,2,18,10,6,0,4,67,3
+artigo_221,Resultados e Discussão,35,0,18,8,6,0,2,35,0
+artigo_221,Conclusão,102,1,47,26,9,0,6,119,0
+artigo_221,Agradecimentos,10,2,0,2,0,0,0,10,0
+artigo_221,Referências,44,3,0,10,0,0,0,80,1
+artigo_222,Introdução,108,1,18,43,7,1,3,116,4
+artigo_222,Materiais e Métodos,34,0,8,5,2,2,1,26,0
+artigo_222,Resultados e Discussão,114,1,46,34,13,0,10,137,4
+artigo_222,Conclusão,23,0,6,17,3,1,0,30,0
+artigo_222,Agradecimentos,12,0,2,5,1,0,0,12,0
+artigo_222,Referências,36,4,3,15,1,0,3,48,0
+artigo_223,Introdução,27,4,9,19,3,0,2,56,2
+artigo_223,Materiais e Métodos,30,0,8,14,1,0,1,39,0
+artigo_223,Resultados e Discussão,118,0,31,36,4,0,4,135,1
+artigo_223,Conclusão,28,0,9,8,1,1,2,30,0
+artigo_223,Agradecimentos,7,0,0,4,1,0,0,15,0
+artigo_223,Referências,31,6,2,11,2,0,2,71,1
+artigo_224,Introdução,13,0,9,12,1,0,3,15,1
+artigo_224,Materiais e Métodos,36,0,20,14,2,0,1,52,5
+artigo_224,Resultados e Discussão,71,0,37,24,8,0,1,88,4
+artigo_224,Conclusão,17,0,14,10,0,0,0,21,0
+artigo_224,Agradecimentos,4,0,0,1,0,0,0,3,0
+artigo_224,Referências,28,0,3,3,0,0,0,21,0
+artigo_225,Introdução,94,5,34,34,13,6,4,141,3
+artigo_225,Materiais e Métodos,51,10,11,33,6,0,0,109,6
+artigo_225,Resultados e Discussão,86,4,25,42,13,2,0,139,1
+artigo_225,Conclusão,19,4,11,11,1,0,1,33,0
+artigo_225,Agradecimentos,9,0,0,8,0,0,0,5,0
+artigo_225,Referências,18,7,0,8,0,0,0,70,0
+artigo_226,Introdução,14,1,4,3,0,0,0,26,0
+artigo_226,Materiais e Métodos,7,0,0,1,0,0,0,10,0
+artigo_226,Resultados e Discussão,51,0,17,14,8,0,1,80,0
+artigo_226,Conclusão,28,0,9,7,5,0,5,43,0
+artigo_226,Agradecimentos,85,1,36,20,11,0,9,128,1
+artigo_226,Referências,21,12,1,0,0,0,0,68,1
+artigo_227,Introdução,8,0,2,0,0,0,0,9,0
+artigo_227,Materiais e Métodos,211,3,73,43,6,2,5,232,1
+artigo_227,Resultados e Discussão,40,0,14,13,3,0,2,65,0
+artigo_227,Conclusão,20,0,5,2,1,0,0,30,0
+artigo_227,Agradecimentos,10,1,3,1,2,0,0,7,0
+artigo_227,Referências,24,2,0,10,0,0,1,35,2
+artigo_228,Introdução,25,0,7,9,0,0,1,17,0
+artigo_228,Materiais e Métodos,154,0,66,24,8,0,7,186,6
+artigo_228,Resultados e Discussão,35,1,20,10,3,1,0,48,1
+artigo_228,Conclusão,13,0,7,5,1,0,1,24,0
+artigo_228,Agradecimentos,3,0,0,0,0,0,0,3,0
+artigo_228,Referências,8,6,0,4,0,0,0,59,0
+artigo_229,Introdução,67,0,18,13,2,2,1,84,1
+artigo_229,Materiais e Métodos,62,0,15,5,3,1,4,70,0
+artigo_229,Resultados e Discussão,97,0,38,33,11,5,2,123,2
+artigo_229,Conclusão,47,0,12,13,5,0,0,54,0
+artigo_229,Agradecimentos,0,0,0,0,0,0,0,0,0
+artigo_229,Referências,30,2,2,1,0,0,0,52,0
+artigo_230,Introdução,29,0,15,11,0,0,0,32,1
+artigo_230,Materiais e Métodos,19,0,6,6,2,0,2,35,0
+artigo_230,Resultados e Discussão,19,0,8,10,1,1,2,20,0
+artigo_230,Conclusão,15,0,8,10,0,0,0,26,1
+artigo_230,Agradecimentos,6,0,0,3,0,0,0,3,0
+artigo_230,Referências,7,2,0,3,0,0,0,15,0
+artigo_231,Introdução,12,0,11,6,1,1,1,25,1
+artigo_231,Materiais e Métodos,73,0,33,24,7,1,8,66,0
+artigo_231,Resultados e Discussão,24,0,21,6,4,0,6,44,0
+artigo_231,Conclusão,10,0,2,3,0,3,0,17,0
+artigo_231,Agradecimentos,2,0,0,1,0,0,0,5,0
+artigo_231,Referências,37,2,2,5,0,0,0,56,0
+artigo_232,Introdução,64,0,32,7,4,0,2,73,0
+artigo_232,Materiais e Métodos,87,0,27,7,5,2,4,89,5
+artigo_232,Resultados e Discussão,116,0,43,10,11,1,6,172,4
+artigo_232,Conclusão,14,0,11,5,2,0,0,37,0
+artigo_232,Agradecimentos,9,0,2,4,0,0,0,9,0
+artigo_232,Referências,25,8,1,7,0,0,0,48,3
+artigo_233,Introdução,42,1,23,11,4,0,2,48,1
+artigo_233,Materiais e Métodos,18,0,7,3,1,0,1,14,0
+artigo_233,Resultados e Discussão,22,0,8,3,1,0,1,22,0
+artigo_233,Conclusão,262,3,74,60,25,5,5,297,2
+artigo_233,Agradecimentos,13,0,0,5,1,0,0,16,0
+artigo_233,Referências,19,18,0,2,0,0,0,50,4
+artigo_234,Introdução,25,0,11,14,2,2,2,21,0
+artigo_234,Materiais e Métodos,17,0,5,5,0,2,0,23,0
+artigo_234,Resultados e Discussão,45,0,15,16,2,0,2,37,0
+artigo_234,Conclusão,26,0,8,9,4,1,2,27,0
+artigo_234,Agradecimentos,9,0,0,2,0,0,0,7,0
+artigo_234,Referências,46,0,1,9,0,0,1,31,3
+artigo_235,Introdução,39,0,23,7,6,0,4,42,2
+artigo_235,Materiais e Métodos,25,0,6,4,0,0,1,28,0
+artigo_235,Resultados e Discussão,26,0,9,8,2,3,1,37,0
+artigo_235,Conclusão,10,0,8,4,0,0,2,15,0
+artigo_235,Agradecimentos,4,0,0,1,0,0,0,5,0
+artigo_235,Referências,9,0,0,0,1,0,0,17,0
+artigo_236,Introdução,31,4,9,10,3,2,0,39,4
+artigo_236,Materiais e Métodos,77,4,25,23,1,0,0,118,4
+artigo_236,Resultados e Discussão,69,9,28,26,4,1,7,97,5
+artigo_236,Conclusão,16,0,5,6,1,0,0,31,0
+artigo_236,Agradecimentos,6,0,1,2,0,0,0,6,0
+artigo_236,Referências,60,10,2,14,0,0,0,117,2
+artigo_237,Introdução,55,0,15,12,1,1,0,43,0
+artigo_237,Materiais e Métodos,105,0,31,21,4,1,0,104,0
+artigo_237,Resultados e Discussão,60,0,30,22,2,3,6,54,2
+artigo_237,Conclusão,30,0,11,8,1,1,0,32,0
+artigo_237,Agradecimentos,17,0,9,9,3,0,1,20,0
+artigo_237,Referências,11,1,0,2,0,0,0,30,0
+artigo_238,Introdução,70,1,13,26,5,0,1,80,1
+artigo_238,Materiais e Métodos,90,2,15,25,11,3,7,126,2
+artigo_238,Resultados e Discussão,140,1,47,45,11,4,11,176,3
+artigo_238,Conclusão,28,0,14,6,1,0,0,43,0
+artigo_238,Agradecimentos,7,0,0,2,0,0,0,10,0
+artigo_238,Referências,64,3,0,12,0,0,1,69,1
+artigo_239,Introdução,19,0,12,5,1,2,2,15,0
+artigo_239,Materiais e Métodos,65,0,21,9,7,0,5,57,3
+artigo_239,Resultados e Discussão,82,0,35,17,7,1,10,70,2
+artigo_239,Conclusão,27,0,14,7,6,0,0,33,0
+artigo_239,Agradecimentos,0,0,0,0,0,0,0,0,0
+artigo_239,Referências,27,0,1,5,0,0,0,22,0
+artigo_240,Introdução,52,0,22,20,4,0,1,85,0
+artigo_240,Materiais e Métodos,59,1,13,9,1,0,2,74,1
+artigo_240,Resultados e Discussão,53,0,22,23,3,1,1,83,0
+artigo_240,Conclusão,15,0,9,6,0,1,0,12,0
+artigo_240,Agradecimentos,4,0,0,4,0,0,0,4,0
+artigo_240,Referências,24,3,5,4,0,0,0,52,0
+artigo_241,Introdução,9,0,5,5,1,0,0,13,0
+artigo_241,Materiais e Métodos,142,3,42,35,6,2,4,141,0
+artigo_241,Resultados e Discussão,89,0,24,20,2,0,1,119,0
+artigo_241,Conclusão,32,0,13,5,2,1,1,31,0
+artigo_241,Agradecimentos,0,0,0,0,0,0,0,0,0
+artigo_241,Referências,61,4,5,24,1,0,3,76,0
+artigo_242,Introdução,59,4,25,15,6,0,0,83,0
+artigo_242,Materiais e Métodos,17,0,7,2,1,0,2,38,0
+artigo_242,Resultados e Discussão,98,0,26,21,10,0,8,132,0
+artigo_242,Conclusão,34,0,12,14,5,1,1,58,0
+artigo_242,Agradecimentos,0,0,0,0,0,0,0,0,0
+artigo_242,Referências,11,9,0,0,0,0,0,38,0
+artigo_243,Introdução,44,1,8,23,2,1,4,61,2
+artigo_243,Materiais e Métodos,15,0,1,3,1,1,2,15,0
+artigo_243,Resultados e Discussão,154,1,48,50,16,6,14,254,11
+artigo_243,Conclusão,18,0,15,3,0,0,2,43,0
+artigo_243,Agradecimentos,5,0,2,1,1,0,0,6,0
+artigo_243,Referências,21,2,2,8,0,0,1,54,0
+artigo_244,Introdução,0,0,1,1,1,0,0,0,0
+artigo_244,Materiais e Métodos,39,0,29,19,4,0,3,62,4
+artigo_244,Resultados e Discussão,313,0,107,76,20,7,20,308,8
+artigo_244,Conclusão,35,0,13,5,1,1,0,31,0
+artigo_244,Agradecimentos,0,0,0,0,0,0,0,0,0
+artigo_244,Referências,18,2,0,6,0,0,0,36,1
+artigo_245,Introdução,37,0,14,12,4,2,1,71,3
+artigo_245,Materiais e Métodos,34,0,8,4,6,0,1,65,0
+artigo_245,Resultados e Discussão,116,1,30,39,14,1,3,185,1
+artigo_245,Conclusão,68,0,37,16,19,2,3,122,0
+artigo_245,Agradecimentos,2,0,0,4,0,0,0,8,0
+artigo_245,Referências,55,6,5,10,1,0,1,121,1
+artigo_246,Introdução,91,1,36,28,13,3,1,96,4
+artigo_246,Materiais e Métodos,33,0,14,5,1,1,1,35,1
+artigo_246,Resultados e Discussão,40,0,17,12,3,0,1,60,0
+artigo_246,Conclusão,22,0,8,5,0,0,1,24,0
+artigo_246,Agradecimentos,3,0,2,0,0,0,0,3,0
+artigo_246,Referências,28,14,1,7,0,0,0,106,12
+artigo_247,Introdução,55,3,16,26,8,3,5,88,2
+artigo_247,Materiais e Métodos,119,1,22,20,10,0,3,152,1
+artigo_247,Resultados e Discussão,30,0,8,7,3,2,0,25,0
+artigo_247,Conclusão,24,0,6,10,1,0,1,17,0
+artigo_247,Agradecimentos,9,0,0,1,0,0,0,4,0
+artigo_247,Referências,24,32,1,6,0,0,0,131,0
+artigo_248,Introdução,6,0,2,7,0,0,0,16,2
+artigo_248,Materiais e Métodos,24,0,3,10,4,0,4,37,3
+artigo_248,Resultados e Discussão,128,0,27,53,20,4,6,236,7
+artigo_248,Conclusão,10,0,3,6,1,1,0,27,0
+artigo_248,Agradecimentos,0,0,0,0,0,0,0,0,0
+artigo_248,Referências,31,0,0,10,0,0,1,73,0
+artigo_249,Introdução,2,0,1,1,0,0,1,0,0
+artigo_249,Materiais e Métodos,17,0,1,6,0,0,1,18,0
+artigo_249,Resultados e Discussão,204,1,73,23,14,7,24,250,0
+artigo_249,Conclusão,15,0,10,2,0,0,3,13,0
+artigo_249,Agradecimentos,3,0,0,2,0,0,0,6,0
+artigo_249,Referências,27,3,2,6,0,0,1,72,1
+artigo_250,Introdução,59,1,25,39,15,1,1,100,0
+artigo_250,Materiais e Métodos,73,0,27,44,6,0,3,105,2
+artigo_250,Resultados e Discussão,124,0,46,57,15,2,2,174,0
+artigo_250,Conclusão,163,0,81,71,25,3,4,205,0
+artigo_250,Agradecimentos,0,0,0,0,0,0,0,0,0
+artigo_250,Referências,253,8,107,104,29,5,5,346,0
+artigo_251,Introdução,2,0,2,0,0,0,1,3,0
+artigo_251,Materiais e Métodos,57,1,24,11,7,0,2,100,2
+artigo_251,Resultados e Discussão,137,0,62,43,10,1,9,216,3
+artigo_251,Conclusão,42,0,32,14,9,2,1,50,0
+artigo_251,Agradecimentos,0,0,0,0,0,0,0,0,0
+artigo_251,Referências,16,1,5,3,0,0,0,35,0
+artigo_252,Introdução,45,8,9,14,5,0,1,51,2
+artigo_252,Materiais e Métodos,55,1,4,19,5,0,1,83,1
+artigo_252,Resultados e Discussão,38,0,9,10,1,3,0,40,1
+artigo_252,Conclusão,8,0,4,3,1,0,0,7,0
+artigo_252,Agradecimentos,7,0,0,4,0,0,1,7,0
+artigo_252,Referências,22,18,1,6,1,0,0,99,0
+artigo_253,Introdução,80,2,25,25,5,1,2,99,2
+artigo_253,Materiais e Métodos,47,1,9,8,1,1,1,68,1
+artigo_253,Resultados e Discussão,58,0,20,12,9,2,1,72,0
+artigo_253,Conclusão,21,0,10,8,2,1,1,16,0
+artigo_253,Agradecimentos,7,0,1,7,0,0,0,9,0
+artigo_253,Referências,80,3,4,16,0,0,0,137,0
+artigo_254,Introdução,85,5,22,32,9,2,3,82,5
+artigo_254,Materiais e Métodos,66,2,12,14,2,0,2,123,1
+artigo_254,Resultados e Discussão,68,2,36,26,9,4,5,138,0
+artigo_254,Conclusão,8,0,2,8,0,1,0,17,0
+artigo_254,Agradecimentos,8,0,0,2,0,0,0,9,0
+artigo_254,Referências,56,27,4,13,6,0,2,128,0
+artigo_255,Introdução,59,4,26,19,4,5,3,95,2
+artigo_255,Materiais e Métodos,42,1,10,8,3,0,2,60,0
+artigo_255,Resultados e Discussão,90,4,35,22,12,3,3,138,3
+artigo_255,Conclusão,29,0,14,15,3,0,0,46,0
+artigo_255,Agradecimentos,3,0,0,3,0,0,0,3,0
+artigo_255,Referências,100,21,4,15,1,0,3,147,0
+artigo_256,Introdução,46,0,9,16,4,1,5,65,1
+artigo_256,Materiais e Métodos,39,0,14,7,7,0,2,85,1
+artigo_256,Resultados e Discussão,56,2,28,14,6,1,7,72,3
+artigo_256,Conclusão,13,0,7,4,1,2,0,21,0
+artigo_256,Agradecimentos,8,0,0,4,0,0,0,10,0
+artigo_256,Referências,53,1,1,13,0,0,1,65,3
+artigo_257,Introdução,11,0,3,2,1,0,1,10,0
+artigo_257,Materiais e Métodos,287,1,113,58,12,0,10,203,6
+artigo_257,Resultados e Discussão,55,0,15,17,6,0,2,68,0
+artigo_257,Conclusão,13,0,5,8,1,0,0,21,0
+artigo_257,Agradecimentos,9,0,1,3,0,0,0,18,0
+artigo_257,Referências,37,1,0,7,0,0,0,42,0
+artigo_258,Introdução,11,0,3,2,1,0,1,10,0
+artigo_258,Materiais e Métodos,287,1,113,58,12,0,10,203,6
+artigo_258,Resultados e Discussão,55,0,15,17,6,0,2,68,0
+artigo_258,Conclusão,13,0,5,8,1,0,0,21,0
+artigo_258,Agradecimentos,9,0,1,3,0,0,0,18,0
+artigo_258,Referências,37,1,0,7,0,0,0,42,0
+artigo_259,Introdução,38,4,10,8,2,2,3,48,3
+artigo_259,Materiais e Métodos,75,1,4,18,7,0,3,94,1
+artigo_259,Resultados e Discussão,25,0,16,7,3,0,0,46,1
+artigo_259,Conclusão,8,0,5,3,0,1,0,7,0
+artigo_259,Agradecimentos,7,0,0,4,0,0,1,7,0
+artigo_259,Referências,28,6,0,6,1,0,1,93,0
+artigo_260,Introdução,37,1,11,13,5,0,2,37,2
+artigo_260,Materiais e Métodos,91,0,26,27,2,0,3,98,0
+artigo_260,Resultados e Discussão,117,0,38,36,6,0,9,121,1
+artigo_260,Conclusão,34,0,13,11,7,0,1,35,0
+artigo_260,Agradecimentos,7,0,0,1,0,0,0,6,0
+artigo_260,Referências,35,1,0,15,0,0,0,52,1
+artigo_261,Introdução,1,0,2,1,0,0,0,0,0
+artigo_261,Materiais e Métodos,1,0,0,0,1,0,0,1,0
+artigo_261,Resultados e Discussão,155,0,66,52,9,2,4,183,2
+artigo_261,Conclusão,7,0,7,6,4,2,1,18,0
+artigo_261,Agradecimentos,0,0,0,0,0,0,0,0,0
+artigo_261,Referências,37,2,6,11,0,0,0,51,0
+artigo_262,Introdução,29,0,8,7,1,1,0,17,2
+artigo_262,Materiais e Métodos,8,0,3,4,1,0,0,7,0
+artigo_262,Resultados e Discussão,204,0,78,68,16,6,8,236,5
+artigo_262,Conclusão,18,0,7,10,5,0,0,15,0
+artigo_262,Agradecimentos,0,0,0,0,0,0,0,0,0
+artigo_262,Referências,30,2,2,5,0,0,1,66,0
+artigo_263,Introdução,4,1,1,1,0,0,0,2,0
+artigo_263,Materiais e Métodos,14,1,1,2,0,0,0,16,0
+artigo_263,Resultados e Discussão,212,0,75,47,14,1,6,208,0
+artigo_263,Conclusão,30,0,6,8,3,1,0,35,0
+artigo_263,Agradecimentos,14,0,3,2,1,0,0,19,0
+artigo_263,Referências,67,10,14,19,4,0,6,82,0
+artigo_264,Introdução,78,6,22,29,8,6,1,98,5
+artigo_264,Materiais e Métodos,84,1,10,20,4,0,5,91,2
+artigo_264,Resultados e Discussão,53,0,18,16,7,0,1,38,0
+artigo_264,Conclusão,24,0,7,11,3,1,0,27,0
+artigo_264,Agradecimentos,8,0,0,5,0,0,0,3,0
+artigo_264,Referências,36,6,2,6,0,0,0,59,1
+artigo_265,Introdução,27,0,11,16,2,0,0,26,1
+artigo_265,Materiais e Métodos,34,2,8,6,0,0,2,48,0
+artigo_265,Resultados e Discussão,184,4,95,44,35,10,9,241,10
+artigo_265,Conclusão,31,1,14,14,6,4,2,56,0
+artigo_265,Agradecimentos,5,0,0,2,0,0,0,7,0
+artigo_265,Referências,51,3,1,16,0,0,1,60,0
+artigo_266,Introdução,22,0,12,12,2,0,2,37,0
+artigo_266,Materiais e Métodos,10,0,2,2,0,0,0,20,0
+artigo_266,Resultados e Discussão,44,0,23,15,1,1,3,69,0
+artigo_266,Conclusão,11,0,10,8,0,0,0,24,0
+artigo_266,Agradecimentos,7,0,2,0,1,0,1,5,0
+artigo_266,Referências,17,0,0,2,0,0,0,29,0
+artigo_267,Introdução,31,3,14,12,5,0,1,48,1
+artigo_267,Materiais e Métodos,51,1,6,16,2,0,3,91,3
+artigo_267,Resultados e Discussão,107,3,38,48,11,4,6,133,3
+artigo_267,Conclusão,14,0,4,9,0,0,1,14,0
+artigo_267,Agradecimentos,7,0,0,1,0,0,0,6,0
+artigo_267,Referências,56,32,2,10,0,0,1,170,0
+artigo_268,Introdução,50,5,18,16,3,1,4,48,2
+artigo_268,Materiais e Métodos,56,0,7,8,5,0,2,41,0
+artigo_268,Resultados e Discussão,58,1,21,23,6,0,2,49,1
+artigo_268,Conclusão,6,0,2,1,1,0,0,6,0
+artigo_268,Agradecimentos,9,0,0,0,0,0,0,16,0
+artigo_268,Referências,23,13,0,5,2,0,0,58,2
+artigo_269,Introdução,50,2,17,12,3,1,4,70,6
+artigo_269,Materiais e Métodos,85,2,9,16,1,1,5,147,1
+artigo_269,Resultados e Discussão,181,8,41,28,15,8,2,203,4
+artigo_269,Conclusão,0,0,0,0,0,0,0,0,0
+artigo_269,Agradecimentos,17,0,0,7,2,0,0,18,0
+artigo_269,Referências,58,22,0,10,0,0,0,152,5
+artigo_270,Introdução,40,1,19,12,7,1,2,61,4
+artigo_270,Materiais e Métodos,47,0,15,8,2,0,3,40,2
+artigo_270,Resultados e Discussão,64,3,21,4,10,1,1,59,4
+artigo_270,Conclusão,25,0,17,11,5,0,1,34,0
+artigo_270,Agradecimentos,7,0,1,0,0,0,0,6,0
+artigo_270,Referências,45,12,2,10,0,0,0,80,1
+artigo_271,Introdução,140,0,62,47,15,0,14,204,7
+artigo_271,Materiais e Métodos,79,1,33,19,7,0,9,106,2
+artigo_271,Resultados e Discussão,39,1,23,17,3,0,2,52,0
+artigo_271,Conclusão,0,0,0,0,0,0,0,0,0
+artigo_271,Agradecimentos,0,0,0,0,0,0,0,0,0
+artigo_271,Referências,46,6,4,9,0,0,1,63,0
+artigo_272,Introdução,49,2,12,15,6,0,0,50,1
+artigo_272,Materiais e Métodos,32,0,9,8,4,0,2,29,0
+artigo_272,Resultados e Discussão,78,0,20,17,6,1,2,80,1
+artigo_272,Conclusão,29,0,15,9,6,1,0,30,0
+artigo_272,Agradecimentos,10,0,0,6,1,0,0,6,0
+artigo_272,Referências,67,3,0,13,0,0,2,66,0
+artigo_273,Introdução,39,2,15,15,4,0,1,59,1
+artigo_273,Materiais e Métodos,37,2,5,8,1,0,1,64,3
+artigo_273,Resultados e Discussão,109,6,29,29,5,4,12,133,7
+artigo_273,Conclusão,13,0,4,3,1,0,0,9,0
+artigo_273,Agradecimentos,14,0,1,5,2,0,0,7,0
+artigo_273,Referências,94,4,4,17,0,0,3,134,0
+artigo_274,Introdução,61,3,19,16,6,0,3,68,2
+artigo_274,Materiais e Métodos,20,2,8,4,1,0,0,43,0
+artigo_274,Resultados e Discussão,65,0,30,17,7,5,10,108,0
+artigo_274,Conclusão,15,0,7,4,1,1,1,16,0
+artigo_274,Agradecimentos,60,9,6,10,1,0,2,115,2
+artigo_274,Referências,0,0,0,0,0,0,0,0,0
+artigo_275,Introdução,40,4,13,9,4,1,1,60,4
+artigo_275,Materiais e Métodos,59,1,10,10,3,2,4,88,1
+artigo_275,Resultados e Discussão,48,4,18,15,3,2,1,79,6
+artigo_275,Conclusão,28,0,13,11,4,1,1,51,0
+artigo_275,Agradecimentos,18,0,1,4,1,0,0,24,0
+artigo_275,Referências,43,2,1,9,0,0,0,63,0
+artigo_276,Introdução,41,5,11,13,3,1,1,56,5
+artigo_276,Materiais e Métodos,73,1,7,17,2,0,3,81,1
+artigo_276,Resultados e Discussão,30,0,9,8,3,0,2,37,0
+artigo_276,Conclusão,4,0,1,3,1,0,1,9,0
+artigo_276,Agradecimentos,7,0,0,4,0,0,1,7,0
+artigo_276,Referências,38,4,4,10,2,0,0,85,1
+artigo_277,Introdução,32,0,16,9,3,1,1,45,2
+artigo_277,Materiais e Métodos,115,1,18,18,2,1,4,136,1
+artigo_277,Resultados e Discussão,35,0,15,9,0,0,1,50,1
+artigo_277,Conclusão,15,0,3,3,1,1,1,22,0
+artigo_277,Agradecimentos,2,0,0,0,0,0,0,6,0
+artigo_277,Referências,9,7,0,2,0,0,0,67,1
+artigo_278,Introdução,58,4,16,15,5,0,5,69,3
+artigo_278,Materiais e Métodos,65,0,9,19,8,0,4,89,1
+artigo_278,Resultados e Discussão,98,2,41,30,11,1,2,108,3
+artigo_278,Conclusão,12,0,2,2,0,0,0,14,0
+artigo_278,Agradecimentos,17,0,0,7,1,0,1,14,0
+artigo_278,Referências,79,1,4,28,12,0,2,100,2
+artigo_279,Introdução,44,4,11,12,3,1,2,69,2
+artigo_279,Materiais e Métodos,86,0,7,10,3,0,1,98,0
+artigo_279,Resultados e Discussão,61,1,13,20,1,0,1,74,3
+artigo_279,Conclusão,22,0,9,4,1,0,0,14,0
+artigo_279,Agradecimentos,5,0,1,0,0,1,0,5,0
+artigo_279,Referências,78,6,3,16,0,0,0,133,2
+artigo_280,Introdução,42,5,20,18,5,3,3,76,2
+artigo_280,Materiais e Métodos,17,1,2,3,0,0,1,12,1
+artigo_280,Resultados e Discussão,90,5,31,29,11,2,9,165,7
+artigo_280,Conclusão,6,0,3,1,1,0,1,9,0
+artigo_280,Agradecimentos,4,0,0,1,0,0,0,9,0
+artigo_280,Referências,50,3,3,7,2,0,0,66,2
+artigo_281,Introdução,65,1,28,17,4,0,3,72,4
+artigo_281,Materiais e Métodos,40,0,5,4,1,0,1,34,1
+artigo_281,Resultados e Discussão,56,0,19,13,4,0,2,67,0
+artigo_281,Conclusão,21,0,9,6,1,0,1,27,0
+artigo_281,Agradecimentos,52,1,2,12,0,0,1,62,2
+artigo_281,Referências,0,0,0,0,0,0,0,0,0
+artigo_282,Introdução,52,2,14,18,2,0,1,57,4
+artigo_282,Materiais e Métodos,82,0,9,21,8,0,7,104,0
+artigo_282,Resultados e Discussão,122,1,32,33,18,4,4,128,3
+artigo_282,Conclusão,24,0,5,4,3,1,0,16,0
+artigo_282,Agradecimentos,13,0,0,9,1,0,2,11,0
+artigo_282,Referências,73,3,2,15,0,0,1,80,0
+artigo_283,Introdução,0,0,0,0,0,0,0,0,0
+artigo_283,Materiais e Métodos,103,1,30,36,8,0,4,103,3
+artigo_283,Resultados e Discussão,42,0,10,12,6,0,3,56,2
+artigo_283,Conclusão,23,0,20,14,6,0,1,38,0
+artigo_283,Agradecimentos,0,0,0,0,0,0,0,0,0
+artigo_283,Referências,3,1,0,3,0,0,0,16,0
+artigo_284,Introdução,36,1,11,9,1,1,1,34,0
+artigo_284,Materiais e Métodos,0,0,0,0,0,0,0,0,0
+artigo_284,Resultados e Discussão,144,0,67,39,9,2,12,245,0
+artigo_284,Conclusão,16,0,10,4,0,0,0,15,0
+artigo_284,Agradecimentos,8,0,0,1,1,0,0,11,0
+artigo_284,Referências,22,3,1,3,0,0,0,51,5
+artigo_285,Introdução,20,2,12,12,4,1,1,56,3
+artigo_285,Materiais e Métodos,33,1,8,5,1,0,2,68,0
+artigo_285,Resultados e Discussão,86,4,28,31,2,0,3,168,5
+artigo_285,Conclusão,18,0,3,3,1,0,1,27,0
+artigo_285,Agradecimentos,6,0,0,3,0,0,0,2,0
+artigo_285,Referências,26,29,3,8,0,0,2,151,1
+artigo_286,Introdução,47,1,15,19,3,0,3,96,1
+artigo_286,Materiais e Métodos,23,0,5,3,3,0,2,69,0
+artigo_286,Resultados e Discussão,73,1,22,20,6,4,3,116,1
+artigo_286,Conclusão,13,0,1,3,0,0,1,25,0
+artigo_286,Agradecimentos,0,0,0,0,0,0,0,0,0
+artigo_286,Referências,5,5,2,0,0,0,0,41,0
+artigo_287,Introdução,34,1,12,16,1,1,2,33,1
+artigo_287,Materiais e Métodos,90,0,20,20,3,3,2,117,0
+artigo_287,Resultados e Discussão,112,0,52,28,8,1,1,104,0
+artigo_287,Conclusão,21,0,10,11,1,0,0,39,0
+artigo_287,Agradecimentos,0,0,0,0,0,0,0,0,0
+artigo_287,Referências,72,1,1,8,0,0,1,76,5
+artigo_288,Introdução,45,1,15,7,2,1,0,55,2
+artigo_288,Materiais e Métodos,88,1,20,7,2,1,1,76,3
+artigo_288,Resultados e Discussão,21,0,6,8,2,0,1,23,0
+artigo_288,Conclusão,23,0,9,11,4,0,0,39,0
+artigo_288,Agradecimentos,17,1,1,3,3,0,1,20,0
+artigo_288,Referências,52,3,1,20,0,0,0,57,2
+artigo_289,Introdução,31,0,14,5,2,2,1,45,1
+artigo_289,Materiais e Métodos,32,0,6,11,2,0,1,49,3
+artigo_289,Resultados e Discussão,41,0,15,11,4,0,1,51,0
+artigo_289,Conclusão,34,0,11,9,4,2,0,50,0
+artigo_289,Agradecimentos,0,0,0,0,0,0,0,0,0
+artigo_289,Referências,48,0,2,1,0,0,0,38,0
+artigo_290,Introdução,66,1,36,38,11,0,6,120,0
+artigo_290,Materiais e Métodos,2,0,1,0,0,0,0,4,0
+artigo_290,Resultados e Discussão,159,1,39,42,7,0,3,289,0
+artigo_290,Conclusão,20,0,4,5,1,0,0,27,0
+artigo_290,Agradecimentos,6,0,1,0,0,0,0,7,0
+artigo_290,Referências,35,20,7,6,0,0,0,105,0
+artigo_291,Introdução,24,6,7,15,2,2,1,38,2
+artigo_291,Materiais e Métodos,153,2,42,42,8,2,10,178,0
+artigo_291,Resultados e Discussão,183,2,55,49,13,2,11,206,1
+artigo_291,Conclusão,57,0,25,14,6,0,2,80,0
+artigo_291,Agradecimentos,12,0,0,4,0,0,0,21,0
+artigo_291,Referências,191,24,48,46,16,0,7,272,0
+artigo_292,Introdução,81,4,36,28,11,3,5,142,2
+artigo_292,Materiais e Métodos,40,0,8,10,1,0,2,57,0
+artigo_292,Resultados e Discussão,64,3,28,20,10,0,1,98,1
+artigo_292,Conclusão,27,0,13,13,4,0,3,43,0
+artigo_292,Agradecimentos,6,0,0,3,0,0,0,17,0
+artigo_292,Referências,15,2,7,5,0,0,0,36,0
+artigo_293,Introdução,66,3,18,21,3,0,6,53,0
+artigo_293,Materiais e Métodos,28,1,1,2,1,0,3,36,0
+artigo_293,Resultados e Discussão,10,0,4,2,1,2,1,16,0
+artigo_293,Conclusão,28,0,8,12,4,3,1,42,0
+artigo_293,Agradecimentos,0,0,0,0,0,0,0,0,0
+artigo_293,Referências,20,0,0,1,0,0,0,29,0
+artigo_294,Introdução,43,2,6,24,3,1,4,68,3
+artigo_294,Materiais e Métodos,54,0,7,12,3,0,2,84,0
+artigo_294,Resultados e Discussão,77,2,22,32,5,1,2,76,2
+artigo_294,Conclusão,15,0,6,11,1,3,0,21,0
+artigo_294,Agradecimentos,20,0,1,7,1,0,0,18,0
+artigo_294,Referências,54,10,3,11,1,0,1,135,1
+artigo_295,Introdução,35,0,19,18,2,1,2,47,0
+artigo_295,Materiais e Métodos,48,0,10,15,3,0,1,77,0
+artigo_295,Resultados e Discussão,70,1,43,21,7,0,4,101,0
+artigo_295,Conclusão,9,0,5,5,0,0,1,10,0
+artigo_295,Agradecimentos,13,0,0,6,2,0,0,10,0
+artigo_295,Referências,6,1,1,3,0,0,0,19,2
+artigo_296,Introdução,35,2,10,19,1,2,2,43,8
+artigo_296,Materiais e Métodos,34,3,4,6,1,0,2,44,3
+artigo_296,Resultados e Discussão,27,0,6,6,1,0,1,27,1
+artigo_296,Conclusão,11,0,6,4,0,0,0,8,0
+artigo_296,Agradecimentos,9,0,0,2,1,0,1,5,0
+artigo_296,Referências,40,14,0,9,0,0,1,58,0
+artigo_297,Introdução,12,0,3,5,1,0,0,8,0
+artigo_297,Materiais e Métodos,23,0,3,9,1,0,0,25,0
+artigo_297,Resultados e Discussão,83,0,19,17,3,0,8,102,0
+artigo_297,Conclusão,12,0,3,4,0,0,0,16,0
+artigo_297,Agradecimentos,10,0,0,7,1,0,0,16,0
+artigo_297,Referências,11,1,1,4,0,0,0,14,0
+artigo_298,Introdução,44,1,13,7,1,3,1,57,2
+artigo_298,Materiais e Métodos,46,1,13,5,4,0,0,69,1
+artigo_298,Resultados e Discussão,100,4,38,28,15,4,5,163,7
+artigo_298,Conclusão,38,0,14,12,3,1,0,44,0
+artigo_298,Agradecimentos,7,0,1,0,0,0,0,6,0
+artigo_298,Referências,61,18,9,14,0,0,3,135,2
+artigo_299,Introdução,78,1,27,13,3,3,3,46,2
+artigo_299,Materiais e Métodos,36,1,7,4,2,3,4,41,0
+artigo_299,Resultados e Discussão,214,3,74,35,30,16,3,211,0
+artigo_299,Conclusão,36,1,12,12,3,2,4,43,0
+artigo_299,Agradecimentos,6,0,0,0,0,0,0,11,0
+artigo_299,Referências,63,0,0,20,12,0,4,91,1
+artigo_300,Introdução,50,1,6,21,5,1,0,54,0
+artigo_300,Materiais e Métodos,42,1,2,16,1,0,1,75,1
+artigo_300,Resultados e Discussão,37,0,15,17,3,1,3,61,0
+artigo_300,Conclusão,17,0,6,9,0,0,1,25,0
+artigo_300,Agradecimentos,4,0,0,5,0,0,0,4,0
+artigo_300,Referências,21,1,0,8,0,0,0,52,2
+artigo_301,Introdução,36,0,21,27,4,1,4,71,2
+artigo_301,Materiais e Métodos,49,1,16,15,2,1,3,56,1
+artigo_301,Resultados e Discussão,21,1,12,12,1,0,4,43,0
+artigo_301,Conclusão,42,0,18,29,7,1,6,84,0
+artigo_301,Agradecimentos,0,0,0,0,0,0,0,0,0
+artigo_301,Referências,24,5,3,9,1,0,0,37,1
+artigo_302,Introdução,37,0,10,10,1,1,1,42,1
+artigo_302,Materiais e Métodos,31,0,3,8,0,0,1,25,0
+artigo_302,Resultados e Discussão,66,3,16,22,3,2,1,50,3
+artigo_302,Conclusão,20,2,2,2,2,0,0,33,0
+artigo_302,Agradecimentos,7,0,1,0,0,0,0,7,0
+artigo_302,Referências,68,7,2,5,0,0,0,69,2
+artigo_303,Introdução,65,1,19,34,2,2,2,78,3
+artigo_303,Materiais e Métodos,73,0,13,13,1,0,2,87,0
+artigo_303,Resultados e Discussão,35,0,14,18,4,0,4,58,0
+artigo_303,Conclusão,12,0,5,4,0,0,1,15,0
+artigo_303,Agradecimentos,4,0,0,4,0,0,0,5,0
+artigo_303,Referências,41,3,3,7,0,0,0,61,3
+artigo_304,Introdução,91,4,26,33,9,1,3,130,4
+artigo_304,Materiais e Métodos,64,1,13,10,2,0,2,79,1
+artigo_304,Resultados e Discussão,25,0,12,12,3,1,0,46,0
+artigo_304,Conclusão,12,0,9,8,1,0,0,25,0
+artigo_304,Agradecimentos,4,0,0,4,0,0,0,4,0
+artigo_304,Referências,28,4,2,6,0,0,0,68,1
+artigo_305,Introdução,58,1,18,29,4,2,2,97,5
+artigo_305,Materiais e Métodos,69,1,13,10,1,0,2,91,1
+artigo_305,Resultados e Discussão,27,0,9,11,3,0,1,40,0
+artigo_305,Conclusão,9,0,9,4,1,0,0,18,0
+artigo_305,Agradecimentos,4,0,0,4,0,0,0,4,0
+artigo_305,Referências,40,8,3,8,0,0,0,67,0
+artigo_306,Introdução,34,2,19,14,5,2,1,34,3
+artigo_306,Materiais e Métodos,74,0,24,13,4,0,1,68,0
+artigo_306,Resultados e Discussão,94,3,58,23,10,3,9,80,3
+artigo_306,Conclusão,17,0,7,7,0,1,0,16,0
+artigo_306,Agradecimentos,8,0,0,3,0,0,0,8,0
+artigo_306,Referências,31,4,3,15,0,0,1,61,5
+artigo_307,Introdução,91,0,40,32,10,4,4,125,3
+artigo_307,Materiais e Métodos,37,0,8,13,1,0,3,72,0
+artigo_307,Resultados e Discussão,115,0,31,29,3,2,11,159,0
+artigo_307,Conclusão,9,0,4,4,1,1,1,18,0
+artigo_307,Agradecimentos,10,0,1,0,0,0,1,4,0
+artigo_307,Referências,36,4,0,7,0,0,0,50,4
+artigo_308,Introdução,94,1,40,27,6,1,3,98,3
+artigo_308,Materiais e Métodos,41,0,8,11,1,0,0,37,0
+artigo_308,Resultados e Discussão,14,0,4,7,1,2,0,9,0
+artigo_308,Conclusão,19,0,6,12,0,0,1,24,0
+artigo_308,Agradecimentos,28,0,3,8,1,0,0,22,0
+artigo_308,Referências,137,9,19,45,2,0,4,167,0
+artigo_309,Introdução,97,0,48,32,5,2,5,125,4
+artigo_309,Materiais e Métodos,39,0,8,10,1,0,0,36,0
+artigo_309,Resultados e Discussão,15,0,3,5,1,2,2,11,0
+artigo_309,Conclusão,27,0,9,13,1,0,1,30,0
+artigo_309,Agradecimentos,28,0,3,8,1,0,0,22,0
+artigo_309,Referências,167,1,37,55,7,1,5,181,1
+artigo_310,Introdução,72,0,25,25,9,2,4,86,5
+artigo_310,Materiais e Métodos,19,0,8,3,0,0,1,22,0
+artigo_310,Resultados e Discussão,56,0,28,18,5,1,3,89,0
+artigo_310,Conclusão,33,0,13,11,1,0,2,36,1
+artigo_310,Agradecimentos,0,0,0,0,0,0,0,0,0
+artigo_310,Referências,24,1,4,9,0,0,1,53,2
+artigo_311,Introdução,37,2,11,17,5,3,1,40,2
+artigo_311,Materiais e Métodos,46,0,16,13,2,1,1,64,3
+artigo_311,Resultados e Discussão,82,2,42,45,20,3,6,126,4
+artigo_311,Conclusão,37,0,21,26,9,3,3,70,0
+artigo_311,Agradecimentos,0,0,0,0,0,0,0,0,0
+artigo_311,Referências,44,12,2,12,0,0,0,128,2
+artigo_312,Introdução,16,0,7,14,2,0,0,12,0
+artigo_312,Materiais e Métodos,78,0,15,37,1,0,3,92,1
+artigo_312,Resultados e Discussão,235,1,64,107,21,3,11,228,11
+artigo_312,Conclusão,45,0,17,21,8,2,1,48,0
+artigo_312,Agradecimentos,9,0,1,5,0,0,0,10,0
+artigo_312,Referências,40,0,0,15,0,0,0,49,0
+artigo_313,Introdução,38,2,11,12,2,2,1,35,2
+artigo_313,Materiais e Métodos,52,1,6,15,1,0,0,61,1
+artigo_313,Resultados e Discussão,30,0,15,12,6,1,2,70,0
+artigo_313,Conclusão,0,0,0,0,0,0,0,0,0
+artigo_313,Agradecimentos,8,0,0,3,0,0,1,7,0
+artigo_313,Referências,27,0,0,7,0,0,0,55,1
+artigo_314,Introdução,43,5,19,22,6,1,0,72,2
+artigo_314,Materiais e Métodos,81,3,4,16,0,0,8,105,1
+artigo_314,Resultados e Discussão,97,6,33,36,12,2,3,148,6
+artigo_314,Conclusão,12,1,2,8,0,0,0,20,0
+artigo_314,Agradecimentos,6,0,0,4,0,0,0,6,0
+artigo_314,Referências,29,20,2,10,0,0,1,69,0
+artigo_315,Introdução,35,1,12,21,5,2,2,84,1
+artigo_315,Materiais e Métodos,62,1,14,9,1,0,2,88,1
+artigo_315,Resultados e Discussão,36,0,17,14,5,1,1,63,0
+artigo_315,Conclusão,15,0,10,8,0,0,0,17,0
+artigo_315,Agradecimentos,4,0,0,4,0,0,0,4,0
+artigo_315,Referências,30,3,2,8,0,0,0,61,0
+artigo_316,Introdução,31,0,14,19,2,0,1,47,0
+artigo_316,Materiais e Métodos,60,0,10,6,3,0,1,76,0
+artigo_316,Resultados e Discussão,33,0,7,7,0,1,1,47,0
+artigo_316,Conclusão,8,0,6,4,0,0,0,13,0
+artigo_316,Agradecimentos,0,0,0,0,0,0,0,0,0
+artigo_316,Referências,27,4,8,5,0,0,0,30,0
+artigo_317,Introdução,52,3,14,18,6,3,1,56,2
+artigo_317,Materiais e Métodos,65,0,12,10,4,0,2,87,1
+artigo_317,Resultados e Discussão,54,1,15,12,4,0,1,48,1
+artigo_317,Conclusão,14,0,5,3,0,0,0,9,0
+artigo_317,Agradecimentos,3,0,0,3,0,0,0,5,0
+artigo_317,Referências,22,12,0,2,0,0,0,79,0
+artigo_318,Introdução,168,2,62,53,14,5,2,230,5
+artigo_318,Materiais e Métodos,23,0,10,14,3,0,1,48,0
+artigo_318,Resultados e Discussão,35,0,13,10,4,1,1,44,0
+artigo_318,Conclusão,13,0,11,3,1,2,0,27,0
+artigo_318,Agradecimentos,3,0,0,3,0,0,0,4,0
+artigo_318,Referências,43,34,7,13,0,0,0,146,1
+artigo_319,Introdução,91,10,29,33,9,3,3,104,5
+artigo_319,Materiais e Métodos,118,0,25,20,8,0,7,114,1
+artigo_319,Resultados e Discussão,26,0,21,4,1,1,0,19,0
+artigo_319,Conclusão,7,0,2,1,0,0,0,10,0
+artigo_319,Agradecimentos,7,0,0,4,0,0,1,7,0
+artigo_319,Referências,60,10,3,8,2,0,0,133,1
+artigo_320,Introdução,65,2,24,24,6,0,1,99,3
+artigo_320,Materiais e Métodos,43,0,10,10,5,0,2,96,0
+artigo_320,Resultados e Discussão,61,0,26,24,3,0,5,85,1
+artigo_320,Conclusão,20,0,7,7,0,0,2,27,0
+artigo_320,Agradecimentos,5,0,0,0,0,0,0,9,0
+artigo_320,Referências,27,1,1,13,1,0,1,44,0
+artigo_321,Introdução,58,0,21,23,4,0,5,70,2
+artigo_321,Materiais e Métodos,47,0,12,7,3,1,1,66,0
+artigo_321,Resultados e Discussão,112,0,27,26,7,0,3,76,2
+artigo_321,Conclusão,17,0,6,4,1,0,1,21,0
+artigo_321,Agradecimentos,4,0,0,0,0,0,0,6,0
+artigo_321,Referências,19,1,0,5,0,0,0,29,0
+artigo_322,Introdução,47,0,15,19,2,0,6,61,0
+artigo_322,Materiais e Métodos,12,0,1,3,1,0,0,12,0
+artigo_322,Resultados e Discussão,234,0,72,84,22,3,19,252,1
+artigo_322,Conclusão,22,0,7,9,0,0,1,23,0
+artigo_322,Agradecimentos,0,0,0,0,0,0,0,0,0
+artigo_322,Referências,44,5,0,19,0,0,0,62,1
+artigo_323,Introdução,59,0,35,20,13,2,2,108,2
+artigo_323,Materiais e Métodos,34,0,15,16,6,2,1,87,1
+artigo_323,Resultados e Discussão,53,1,25,26,8,1,2,156,0
+artigo_323,Conclusão,17,0,6,6,3,0,1,41,0
+artigo_323,Agradecimentos,0,0,0,0,0,0,0,0,0
+artigo_323,Referências,50,3,2,16,0,0,0,71,1
+artigo_324,Introdução,57,0,26,10,5,0,3,56,0
+artigo_324,Materiais e Métodos,98,1,30,20,3,0,3,109,2
+artigo_324,Resultados e Discussão,45,0,14,6,0,0,1,54,0
+artigo_324,Conclusão,21,0,12,4,0,0,1,23,0
+artigo_324,Agradecimentos,5,0,0,1,0,0,0,5,0
+artigo_324,Referências,29,2,3,1,0,0,0,42,4
+artigo_325,Introdução,9,0,1,2,0,0,1,5,0
+artigo_325,Materiais e Métodos,65,0,7,11,4,0,2,91,1
+artigo_325,Resultados e Discussão,188,5,43,46,15,6,6,244,10
+artigo_325,Conclusão,32,0,12,14,4,3,1,74,1
+artigo_325,Agradecimentos,4,0,0,0,0,0,0,6,0
+artigo_325,Referências,10,8,2,4,0,0,0,45,1
+artigo_326,Introdução,64,2,15,14,3,1,3,57,1
+artigo_326,Materiais e Métodos,31,0,7,5,0,0,2,33,0
+artigo_326,Resultados e Discussão,83,0,33,12,7,0,6,101,2
+artigo_326,Conclusão,44,0,14,9,1,1,0,55,0
+artigo_326,Agradecimentos,10,0,0,5,1,0,0,9,0
+artigo_326,Referências,13,5,0,3,0,0,0,43,0
+artigo_327,Introdução,46,3,18,18,4,1,4,57,3
+artigo_327,Materiais e Métodos,7,0,1,0,0,0,1,2,0
+artigo_327,Resultados e Discussão,4,0,1,1,0,0,1,3,0
+artigo_327,Conclusão,160,5,38,46,7,1,4,199,2
+artigo_327,Agradecimentos,11,1,0,6,1,0,1,17,0
+artigo_327,Referências,64,6,3,7,0,0,0,57,0
+artigo_328,Introdução,48,6,14,16,6,1,5,72,5
+artigo_328,Materiais e Métodos,53,1,10,12,7,1,0,84,1
+artigo_328,Resultados e Discussão,42,3,17,15,8,4,4,73,5
+artigo_328,Conclusão,25,0,10,5,1,1,0,20,0
+artigo_328,Agradecimentos,6,0,0,3,0,0,0,7,0
+artigo_328,Referências,31,9,0,4,0,0,0,82,1
+artigo_329,Introdução,89,2,38,62,18,5,3,150,5
+artigo_329,Materiais e Métodos,41,2,14,11,0,0,1,62,1
+artigo_329,Resultados e Discussão,50,3,35,27,12,5,3,77,2
+artigo_329,Conclusão,27,1,6,9,1,0,0,25,0
+artigo_329,Agradecimentos,0,0,0,0,0,0,0,0,0
+artigo_329,Referências,14,16,1,6,0,0,1,59,0
+artigo_330,Introdução,81,7,21,34,2,1,2,135,3
+artigo_330,Materiais e Métodos,79,0,15,24,1,0,2,154,2
+artigo_330,Resultados e Discussão,126,2,31,44,3,1,4,235,4
+artigo_330,Conclusão,26,0,4,5,0,0,1,35,0
+artigo_330,Agradecimentos,10,0,0,5,0,0,1,8,0
+artigo_330,Referências,51,22,1,4,1,0,1,145,2
+artigo_331,Introdução,27,0,4,11,2,1,2,37,0
+artigo_331,Materiais e Métodos,20,0,3,2,0,0,0,42,0
+artigo_331,Resultados e Discussão,15,0,11,6,0,0,0,34,0
+artigo_331,Conclusão,20,0,7,7,3,2,1,47,0
+artigo_331,Agradecimentos,7,0,0,4,0,0,0,7,0
+artigo_331,Referências,11,10,1,2,0,0,0,54,2
+artigo_332,Introdução,26,5,12,9,2,1,1,65,1
+artigo_332,Materiais e Métodos,173,12,58,34,6,1,3,355,1
+artigo_332,Resultados e Discussão,58,0,18,10,4,4,2,97,0
+artigo_332,Conclusão,3,0,2,0,1,0,0,10,0
+artigo_332,Agradecimentos,5,0,0,3,0,0,1,10,0
+artigo_332,Referências,53,22,3,10,0,0,0,263,0
+artigo_333,Introdução,38,1,15,18,6,0,4,80,0
+artigo_333,Materiais e Métodos,29,0,8,5,3,0,2,56,0
+artigo_333,Resultados e Discussão,112,3,39,43,12,5,4,131,1
+artigo_333,Conclusão,27,0,10,12,1,0,0,35,0
+artigo_333,Agradecimentos,5,0,0,5,0,0,0,3,0
+artigo_333,Referências,94,10,4,19,2,0,1,137,0
+artigo_334,Introdução,24,1,10,15,0,1,1,46,2
+artigo_334,Materiais e Métodos,62,2,21,36,2,0,4,115,9
+artigo_334,Resultados e Discussão,28,0,16,14,5,0,0,50,0
+artigo_334,Conclusão,24,0,14,14,5,1,0,44,0
+artigo_334,Agradecimentos,0,0,0,0,0,0,0,0,0
+artigo_334,Referências,20,4,0,7,0,0,0,38,0
+artigo_335,Introdução,58,1,23,24,5,3,3,124,1
+artigo_335,Materiais e Métodos,67,1,14,12,2,0,2,89,1
+artigo_335,Resultados e Discussão,37,0,15,17,5,1,1,56,0
+artigo_335,Conclusão,9,0,9,5,1,0,0,21,0
+artigo_335,Agradecimentos,4,0,0,4,0,0,0,4,0
+artigo_335,Referências,30,3,3,9,0,0,0,48,0
+artigo_337,Introdução,41,0,18,20,4,0,2,78,0
+artigo_337,Materiais e Métodos,62,1,11,7,1,0,2,78,1
+artigo_337,Resultados e Discussão,37,0,17,19,3,2,0,50,0
+artigo_337,Conclusão,37,0,23,14,3,1,1,61,0
+artigo_337,Agradecimentos,4,0,0,4,0,0,0,4,0
+artigo_337,Referências,31,3,3,8,0,0,0,46,0
+artigo_338,Introdução,27,4,8,15,1,1,0,23,3
+artigo_338,Materiais e Métodos,33,4,8,16,1,1,0,35,3
+artigo_338,Resultados e Discussão,185,0,68,26,14,3,9,172,0
+artigo_338,Conclusão,39,0,24,12,5,1,1,25,0
+artigo_338,Agradecimentos,7,0,0,5,0,0,0,5,0
+artigo_338,Referências,106,3,27,22,8,0,5,121,0
+artigo_339,Introdução,46,1,14,13,3,1,1,49,1
+artigo_339,Materiais e Métodos,61,3,20,26,4,0,2,78,3
+artigo_339,Resultados e Discussão,47,2,7,10,5,3,5,45,2
+artigo_339,Conclusão,30,0,15,11,2,1,1,46,0
+artigo_339,Agradecimentos,2,0,0,0,0,0,0,2,0
+artigo_339,Referências,101,9,5,25,13,0,3,108,2
+artigo_340,Introdução,37,1,6,9,1,1,2,49,2
+artigo_340,Materiais e Métodos,24,1,3,3,1,0,3,44,0
+artigo_340,Resultados e Discussão,46,2,18,10,5,4,2,48,4
+artigo_340,Conclusão,11,0,3,2,4,0,3,21,1
+artigo_340,Agradecimentos,6,0,0,3,0,0,0,7,0
+artigo_340,Referências,50,1,0,14,0,0,2,79,2
+artigo_341,Introdução,46,0,16,13,4,1,0,70,0
+artigo_341,Materiais e Métodos,53,0,12,18,4,3,0,95,0
+artigo_341,Resultados e Discussão,43,0,15,19,3,1,0,69,0
+artigo_341,Conclusão,25,0,13,7,0,0,0,31,0
+artigo_341,Agradecimentos,3,0,0,4,0,0,0,2,0
+artigo_341,Referências,32,20,0,4,1,0,0,123,1
+artigo_342,Introdução,3,0,0,0,0,0,0,1,0
+artigo_342,Materiais e Métodos,163,3,57,25,10,5,5,236,8
+artigo_342,Resultados e Discussão,22,0,11,5,1,0,0,28,0
+artigo_342,Conclusão,13,0,9,1,1,0,0,22,0
+artigo_342,Agradecimentos,0,0,0,0,0,0,0,0,0
+artigo_342,Referências,46,6,3,11,0,0,1,83,2
+artigo_343,Introdução,6,0,2,1,1,0,0,10,2
+artigo_343,Materiais e Métodos,34,1,7,13,0,0,1,58,0
+artigo_343,Resultados e Discussão,101,1,34,29,4,0,1,160,0
+artigo_343,Conclusão,9,0,7,4,1,1,0,14,0
+artigo_343,Agradecimentos,8,0,2,6,1,0,0,11,0
+artigo_343,Referências,22,4,1,1,0,0,0,51,0
+artigo_344,Introdução,55,4,14,14,2,0,1,54,3
+artigo_344,Materiais e Métodos,13,1,2,4,1,0,1,18,1
+artigo_344,Resultados e Discussão,105,0,43,25,10,1,0,102,0
+artigo_344,Conclusão,24,0,11,9,1,0,1,33,0
+artigo_344,Agradecimentos,9,0,0,0,0,0,0,9,0
+artigo_344,Referências,20,5,0,4,0,0,0,29,0
+artigo_345,Introdução,49,6,21,16,8,2,1,91,4
+artigo_345,Materiais e Métodos,70,0,4,8,10,0,2,80,0
+artigo_345,Resultados e Discussão,55,1,28,13,10,0,2,91,2
+artigo_345,Conclusão,5,0,3,3,1,0,0,14,0
+artigo_345,Agradecimentos,12,0,1,6,1,0,0,7,0
+artigo_345,Referências,36,1,3,11,1,0,0,66,0
+artigo_346,Introdução,43,7,16,26,3,1,1,69,0
+artigo_346,Materiais e Métodos,26,2,6,20,1,0,1,56,3
+artigo_346,Resultados e Discussão,63,4,24,37,6,3,1,120,1
+artigo_346,Conclusão,16,1,9,13,0,0,0,25,0
+artigo_346,Agradecimentos,21,1,0,10,0,0,0,17,0
+artigo_346,Referências,23,22,1,9,0,0,0,99,0
+artigo_347,Introdução,59,1,17,21,4,2,8,94,4
+artigo_347,Materiais e Métodos,61,0,13,20,6,0,3,112,0
+artigo_347,Resultados e Discussão,51,3,9,12,2,1,5,83,2
+artigo_347,Conclusão,38,0,14,11,6,1,1,43,0
+artigo_347,Agradecimentos,4,0,0,3,0,0,0,3,0
+artigo_347,Referências,53,15,4,12,0,0,2,131,1
+artigo_348,Introdução,60,3,20,11,3,0,2,71,2
+artigo_348,Materiais e Métodos,105,0,36,40,3,1,1,119,6
+artigo_348,Resultados e Discussão,24,0,7,7,1,0,1,26,0
+artigo_348,Conclusão,9,0,3,4,0,0,0,11,0
+artigo_348,Agradecimentos,10,1,0,2,0,0,0,8,0
+artigo_348,Referências,218,7,60,63,7,1,2,257,7
+artigo_349,Introdução,51,0,15,14,3,1,2,77,2
+artigo_349,Materiais e Métodos,55,1,9,10,3,0,4,92,1
+artigo_349,Resultados e Discussão,57,0,25,19,6,1,1,81,0
+artigo_349,Conclusão,17,0,6,4,0,1,1,32,0
+artigo_349,Agradecimentos,4,0,0,3,0,0,0,3,0
+artigo_349,Referências,34,3,1,5,0,0,0,96,2
+artigo_350,Introdução,3,0,1,2,0,0,0,3,0
+artigo_350,Materiais e Métodos,85,1,40,12,9,0,4,113,1
+artigo_350,Resultados e Discussão,222,2,98,69,21,3,13,279,9
+artigo_350,Conclusão,22,0,12,12,1,0,0,22,0
+artigo_350,Agradecimentos,7,0,0,0,0,0,0,6,0
+artigo_350,Referências,33,7,2,7,0,0,0,58,0
+artigo_351,Introdução,51,1,15,12,2,1,3,78,3
+artigo_351,Materiais e Métodos,78,0,14,17,3,0,7,114,3
+artigo_351,Resultados e Discussão,58,0,20,27,6,3,4,85,0
+artigo_351,Conclusão,19,0,8,6,2,0,2,29,0
+artigo_351,Agradecimentos,0,0,0,0,0,0,0,0,0
+artigo_351,Referências,54,4,0,16,0,0,1,68,0
+artigo_352,Introdução,26,1,13,15,4,3,2,77,4
+artigo_352,Materiais e Métodos,48,0,5,9,2,0,5,80,0
+artigo_352,Resultados e Discussão,147,0,27,32,8,4,6,281,2
+artigo_352,Conclusão,25,0,5,12,2,0,1,40,0
+artigo_352,Agradecimentos,4,0,0,0,0,0,0,6,0
+artigo_352,Referências,28,2,0,8,0,0,0,54,1
+artigo_353,Introdução,91,0,57,34,7,4,2,102,4
+artigo_353,Materiais e Métodos,14,0,4,1,1,0,0,15,1
+artigo_353,Resultados e Discussão,69,0,33,15,1,0,2,60,0
+artigo_353,Conclusão,32,0,16,10,3,0,0,25,0
+artigo_353,Agradecimentos,11,0,0,3,0,0,0,8,0
+artigo_353,Referências,16,1,5,4,0,0,1,37,0
+artigo_354,Introdução,74,0,43,19,12,0,5,88,1
+artigo_354,Materiais e Métodos,22,0,17,8,3,0,0,25,0
+artigo_354,Resultados e Discussão,158,1,51,38,10,7,8,169,4
+artigo_354,Conclusão,13,0,10,3,1,0,1,17,0
+artigo_354,Agradecimentos,7,0,2,0,1,0,0,10,0
+artigo_354,Referências,35,1,1,11,0,0,0,52,1
+artigo_355,Introdução,48,3,13,12,5,0,3,68,3
+artigo_355,Materiais e Métodos,75,0,3,7,2,0,1,65,0
+artigo_355,Resultados e Discussão,52,2,11,9,8,2,4,47,3
+artigo_355,Conclusão,5,0,2,0,1,0,1,12,0
+artigo_355,Agradecimentos,12,0,1,6,1,0,0,7,0
+artigo_355,Referências,34,11,1,11,1,0,0,81,0
+artigo_356,Introdução,45,6,13,11,4,0,3,50,3
+artigo_356,Materiais e Métodos,39,1,4,11,1,0,0,48,1
+artigo_356,Resultados e Discussão,47,0,14,12,5,3,1,45,0
+artigo_356,Conclusão,12,0,7,2,1,1,1,18,0
+artigo_356,Agradecimentos,7,0,0,3,0,0,1,6,0
+artigo_356,Referências,39,5,1,5,2,0,0,61,0
+artigo_357,Introdução,36,3,19,13,2,0,2,44,3
+artigo_357,Materiais e Métodos,16,0,4,3,0,0,0,19,0
+artigo_357,Resultados e Discussão,115,3,26,22,2,3,5,169,3
+artigo_357,Conclusão,20,1,8,8,2,2,0,28,2
+artigo_357,Agradecimentos,0,0,0,0,0,0,0,0,0
+artigo_357,Referências,59,8,4,10,0,0,1,115,3
+artigo_358,Introdução,22,4,7,7,2,1,4,33,3
+artigo_358,Materiais e Métodos,56,1,3,21,4,0,1,79,1
+artigo_358,Resultados e Discussão,30,0,10,7,2,0,0,36,1
+artigo_358,Conclusão,9,0,8,5,2,0,0,7,0
+artigo_358,Agradecimentos,9,0,0,4,0,0,1,6,0
+artigo_358,Referências,23,8,0,3,0,0,0,66,0
+artigo_359,Introdução,36,1,6,9,0,0,3,42,2
+artigo_359,Materiais e Métodos,54,0,7,9,3,2,2,74,0
+artigo_359,Resultados e Discussão,31,5,10,11,2,2,1,89,7
+artigo_359,Conclusão,15,0,4,5,1,2,1,35,0
+artigo_359,Agradecimentos,18,0,1,4,1,0,0,24,0
+artigo_359,Referências,59,12,0,9,0,0,0,131,0
+artigo_360,Introdução,86,2,28,18,5,2,7,77,5
+artigo_360,Materiais e Métodos,66,0,11,10,9,2,1,59,1
+artigo_360,Resultados e Discussão,35,0,13,4,1,0,3,27,0
+artigo_360,Conclusão,38,0,12,7,3,0,3,35,0
+artigo_360,Agradecimentos,10,1,0,2,0,0,0,9,0
+artigo_360,Referências,33,2,2,9,0,1,0,42,2
+artigo_361,Introdução,40,1,13,7,2,0,2,79,1
+artigo_361,Materiais e Métodos,43,0,13,7,1,0,2,48,0
+artigo_361,Resultados e Discussão,35,0,16,9,1,0,1,60,0
+artigo_361,Conclusão,21,0,6,9,1,0,1,34,0
+artigo_361,Agradecimentos,11,0,0,0,0,0,1,18,0
+artigo_361,Referências,17,1,0,3,0,0,0,39,0
+artigo_362,Introdução,31,3,17,19,4,0,0,86,5
+artigo_362,Materiais e Métodos,28,0,10,9,0,0,2,64,1
+artigo_362,Resultados e Discussão,35,1,20,20,2,2,4,60,3
+artigo_362,Conclusão,11,0,6,8,0,1,1,21,0
+artigo_362,Agradecimentos,0,0,0,0,0,0,0,0,0
+artigo_362,Referências,37,6,3,15,0,0,0,108,1
+artigo_363,Introdução,57,7,19,25,12,0,6,84,1
+artigo_363,Materiais e Métodos,7,0,4,0,1,0,0,10,0
+artigo_363,Resultados e Discussão,140,2,42,12,24,0,9,190,3
+artigo_363,Conclusão,24,0,10,3,5,0,1,13,0
+artigo_363,Agradecimentos,8,1,0,1,0,0,0,6,0
+artigo_363,Referências,38,15,6,4,0,0,0,110,3
+artigo_364,Introdução,20,0,12,6,1,1,1,32,0
+artigo_364,Materiais e Métodos,96,1,23,20,3,3,1,171,2
+artigo_364,Resultados e Discussão,123,2,37,26,3,3,1,205,3
+artigo_364,Conclusão,44,2,7,11,6,2,3,55,2
+artigo_364,Agradecimentos,12,1,0,5,0,0,0,11,0
+artigo_364,Referências,25,25,1,5,0,0,0,99,0
+artigo_365,Introdução,35,1,14,12,2,1,2,64,0
+artigo_365,Materiais e Métodos,90,0,18,10,3,0,2,85,0
+artigo_365,Resultados e Discussão,40,0,15,17,1,1,2,65,1
+artigo_365,Conclusão,21,0,11,10,1,0,0,27,0
+artigo_365,Agradecimentos,11,0,0,1,1,0,1,17,0
+artigo_365,Referências,25,1,0,6,0,0,0,38,0
+artigo_366,Introdução,19,0,3,5,1,0,1,13,0
+artigo_366,Materiais e Métodos,101,1,22,26,5,2,7,106,1
+artigo_366,Resultados e Discussão,63,0,15,6,1,0,4,54,2
+artigo_366,Conclusão,26,0,6,7,1,0,0,27,0
+artigo_366,Agradecimentos,10,1,0,2,0,0,0,8,0
+artigo_366,Referências,211,8,46,40,19,2,6,224,6
+artigo_367,Introdução,0,0,0,0,0,0,0,0,0
+artigo_367,Materiais e Métodos,58,1,20,13,2,0,1,88,0
+artigo_367,Resultados e Discussão,27,0,10,8,3,2,1,41,0
+artigo_367,Conclusão,15,0,10,9,2,0,0,20,0
+artigo_367,Agradecimentos,0,0,0,0,0,0,0,0,0
+artigo_367,Referências,19,1,1,1,0,0,0,38,5
+artigo_368,Introdução,31,2,6,13,2,0,3,48,3
+artigo_368,Materiais e Métodos,82,2,6,26,5,1,2,111,3
+artigo_368,Resultados e Discussão,157,3,29,40,11,4,6,179,4
+artigo_368,Conclusão,29,0,11,18,5,2,1,23,0
+artigo_368,Agradecimentos,8,0,1,1,0,0,0,14,0
+artigo_368,Referências,53,15,2,15,1,0,2,109,0
+artigo_369,Introdução,22,3,7,10,2,0,1,34,2
+artigo_369,Materiais e Métodos,104,0,11,25,3,1,6,120,2
+artigo_369,Resultados e Discussão,187,0,30,38,14,3,9,208,2
+artigo_369,Conclusão,34,0,17,8,3,0,2,42,0
+artigo_369,Agradecimentos,6,0,1,0,0,0,0,13,0
+artigo_369,Referências,51,7,0,8,0,0,0,64,0
+artigo_370,Introdução,49,1,19,15,3,1,2,60,2
+artigo_370,Materiais e Métodos,51,2,10,10,1,0,3,94,0
+artigo_370,Resultados e Discussão,95,5,32,25,5,0,0,92,5
+artigo_370,Conclusão,38,0,15,13,4,0,0,48,0
+artigo_370,Agradecimentos,0,0,0,0,0,0,0,0,0
+artigo_370,Referências,78,28,9,21,1,0,0,135,1
+artigo_371,Introdução,93,3,31,23,4,0,4,83,6
+artigo_371,Materiais e Métodos,176,5,60,36,5,0,5,163,6
+artigo_371,Resultados e Discussão,59,0,20,22,6,2,1,66,0
+artigo_371,Conclusão,22,0,4,12,4,0,1,26,0
+artigo_371,Agradecimentos,6,1,0,3,0,0,0,8,0
+artigo_371,Referências,43,10,3,11,0,0,0,91,7
+artigo_372,Introdução,16,0,2,7,0,0,0,16,0
+artigo_372,Materiais e Métodos,72,1,24,20,0,0,4,91,4
+artigo_372,Resultados e Discussão,166,1,61,48,7,0,8,203,6
+artigo_372,Conclusão,32,0,12,6,3,0,0,30,0
+artigo_372,Agradecimentos,0,0,0,0,0,0,0,0,0
+artigo_372,Referências,34,7,1,3,0,0,1,53,2
+artigo_373,Introdução,44,0,17,9,4,2,2,55,3
+artigo_373,Materiais e Métodos,13,0,9,4,1,0,1,13,1
+artigo_373,Resultados e Discussão,161,8,50,43,13,5,3,248,0
+artigo_373,Conclusão,53,0,25,16,3,2,1,78,0
+artigo_373,Agradecimentos,0,0,0,0,0,0,0,0,0
+artigo_373,Referências,8,9,0,0,0,0,0,27,1
+artigo_374,Introdução,90,1,35,14,12,0,2,102,2
+artigo_374,Materiais e Métodos,56,0,14,11,3,1,0,62,0
+artigo_374,Resultados e Discussão,52,0,14,14,3,1,4,51,0
+artigo_374,Conclusão,23,0,8,6,2,0,0,24,0
+artigo_374,Agradecimentos,6,0,0,3,0,0,0,6,0
+artigo_374,Referências,11,5,0,4,0,0,0,29,0
+artigo_375,Introdução,64,2,21,15,10,0,1,68,2
+artigo_375,Materiais e Métodos,19,0,6,3,4,0,2,28,0
+artigo_375,Resultados e Discussão,91,0,29,15,9,1,4,89,0
+artigo_375,Conclusão,58,0,19,18,3,0,1,67,0
+artigo_375,Agradecimentos,11,0,0,5,1,0,0,19,0
+artigo_375,Referências,23,3,0,5,0,0,0,29,0
+artigo_376,Introdução,70,0,29,17,2,0,1,56,4
+artigo_376,Materiais e Métodos,55,0,12,8,1,0,1,51,0
+artigo_376,Resultados e Discussão,102,0,34,19,6,1,6,74,0
+artigo_376,Conclusão,24,0,13,6,3,0,0,14,0
+artigo_376,Agradecimentos,6,0,1,4,1,0,0,11,0
+artigo_376,Referências,39,0,3,5,0,0,0,34,0
+artigo_377,Introdução,47,6,10,16,3,0,3,37,6
+artigo_377,Materiais e Métodos,43,0,4,16,1,0,2,75,0
+artigo_377,Resultados e Discussão,72,3,25,18,3,5,1,64,3
+artigo_377,Conclusão,27,0,8,6,1,3,0,21,0
+artigo_377,Agradecimentos,4,0,0,5,0,0,0,4,0
+artigo_377,Referências,65,9,4,16,0,0,0,130,2
+artigo_378,Introdução,68,7,29,28,4,1,6,63,8
+artigo_378,Materiais e Métodos,36,1,14,10,2,0,2,39,1
+artigo_378,Resultados e Discussão,25,0,14,6,0,0,1,34,1
+artigo_378,Conclusão,33,1,16,14,2,0,0,29,0
+artigo_378,Agradecimentos,16,1,2,6,0,0,1,15,0
+artigo_378,Referências,48,50,3,20,0,0,0,143,2
+artigo_379,Introdução,99,3,37,31,6,2,4,132,9
+artigo_379,Materiais e Métodos,17,1,1,5,2,0,0,30,0
+artigo_379,Resultados e Discussão,93,3,26,26,4,2,4,138,5
+artigo_379,Conclusão,10,0,4,3,0,2,0,25,0
+artigo_379,Agradecimentos,4,0,0,3,0,0,0,4,0
+artigo_379,Referências,35,17,2,6,0,0,0,87,0
+artigo_380,Introdução,44,5,22,19,2,1,0,77,4
+artigo_380,Materiais e Métodos,132,2,39,25,8,0,3,200,3
+artigo_380,Resultados e Discussão,18,0,4,2,0,0,1,17,0
+artigo_380,Conclusão,99,0,31,25,7,1,5,131,0
+artigo_380,Agradecimentos,9,0,2,5,0,0,0,7,0
+artigo_380,Referências,32,29,2,4,0,0,1,132,4
+artigo_381,Introdução,42,3,13,19,0,0,1,47,5
+artigo_381,Materiais e Métodos,21,5,6,5,1,0,0,42,1
+artigo_381,Resultados e Discussão,120,4,23,24,6,1,7,111,3
+artigo_381,Conclusão,39,4,14,13,8,1,0,41,4
+artigo_381,Agradecimentos,14,0,0,4,0,0,0,9,0
+artigo_381,Referências,46,33,3,12,0,0,0,183,0
+artigo_382,Introdução,17,0,8,2,6,2,3,27,0
+artigo_382,Materiais e Métodos,8,0,3,6,0,0,2,20,0
+artigo_382,Resultados e Discussão,10,0,6,6,1,0,0,21,0
+artigo_382,Conclusão,8,0,6,3,0,0,0,12,0
+artigo_382,Agradecimentos,0,0,0,0,0,0,0,0,0
+artigo_382,Referências,83,6,0,33,1,0,4,140,3
+artigo_383,Introdução,28,0,8,7,1,1,0,42,0
+artigo_383,Materiais e Métodos,36,0,9,7,1,0,2,56,0
+artigo_383,Resultados e Discussão,55,0,19,15,2,1,1,49,0
+artigo_383,Conclusão,32,0,6,14,2,0,0,49,0
+artigo_383,Agradecimentos,0,0,0,0,0,0,0,0,0
+artigo_383,Referências,92,3,2,9,3,0,0,101,2
+artigo_384,Introdução,42,2,12,12,1,0,1,40,0
+artigo_384,Materiais e Métodos,64,3,12,9,4,2,1,52,3
+artigo_384,Resultados e Discussão,89,4,19,17,1,2,1,61,3
+artigo_384,Conclusão,30,0,7,7,2,0,0,29,0
+artigo_384,Agradecimentos,0,0,0,0,0,0,0,0,0
+artigo_384,Referências,28,35,0,7,0,0,0,89,0
+artigo_385,Introdução,30,0,14,20,4,1,0,44,1
+artigo_385,Materiais e Métodos,20,0,5,5,1,0,0,16,0
+artigo_385,Resultados e Discussão,137,1,43,52,16,2,4,195,4
+artigo_385,Conclusão,21,0,6,14,0,3,0,31,0
+artigo_385,Agradecimentos,0,0,0,0,0,0,0,0,0
+artigo_385,Referências,32,35,1,8,1,0,1,114,1
