@@ -1,7 +1,3 @@
-# Análise Bibliométrica do Seminário de Iniciação Científica (SIC) IFNMG
-# Período: 2022 a 2025
-# Autor: [Seu Nome]
-# Data: 2026
 
 # ============================================================================
 # PARTE 1: IMPORTAÇÃO DE BIBLIOTECAS
